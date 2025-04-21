@@ -1,0 +1,10 @@
+# Ignore vs code workspace
+schemes_and_machinations.code-workspace
+
+# Ignore Jekyll files
+*.gem
+.bundle
+.sass-cache
+.jekyll-cache
+_site
+Gemfile.lock
