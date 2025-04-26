@@ -1,0 +1,20 @@
+- title: About Me
+  url: ./pages/about.html
+
+- title: Zines!
+  url: ./pages/zines.html
+
+- title: Muzak
+  url: ./pages/music.html
+
+- title: I Too Love Brooklyn
+  url: ./pages/brooklyn.html
+
+- title: Writer's Community
+  url: ./pages/writer_community.html
+
+- title: Join Us >:)
+  url: ./pages/writer_community.html
+
+- title: Wesbite Source Code
+  url: https://github.com/limh0228/schemes_and_machinations
