@@ -135,6 +135,17 @@ figcaption {
   }
 }
 
+.post-author {
+  color: $text-color;
+  display: block;
+  font-size: .825em;
+  white-space: nowrap;
+  text-transform: uppercase;
+  .post-link & {
+    padding: .5em 1em;
+  }
+}
+
 .site-credits {
   color: $muted-text-color;
   margin: 0 auto 2em;
