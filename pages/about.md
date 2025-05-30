@@ -1,17 +1,16 @@
 ---
-layout: post
-title: About
+layout: page
+title: Hi. I'm Hannah
+author: "Hannah Lim"
+date: 2025-05-29
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+This is the landing pad for everything I make. Mostly this blog will be about my writing, maybe some music or code, but I also just moved to NYC in October 2024, so there are also some resources here for community organizing and community building. I want to be your friend.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+<br>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Sometimes, practical acts of social activism do really just boil down to making friends, and finding the energy to make their lives better. Not anything so crazy, but like...we only have each other here on Earth. There's nothing else. Just us.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+<br>
+
+I'm just grateful to be here.
