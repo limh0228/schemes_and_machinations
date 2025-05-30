@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+
+  </head>
+  <body>
+
+    {{ content }}
+
+    {% include search.html %}
+
+    <aside class="site-credits">
+      <p><small>It took me a long time to choose all my site colors, so honestly I will not be receptive to feedback on this.</small></p>
+      <p><small>However, I did do my best to comply with <a href="https://adata.org/learn-about-ada">ADA Design Guidelines</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</small></p>
+    </aside>
+
+  </body>
+</html>
