@@ -1,4 +1,5 @@
 .site-navigation {
+  position: relative;
   margin-top: 2rem;
   padding: 0 1rem;
   &:hover,
@@ -7,6 +8,7 @@
       opacity: .7;
     }
   }
+  z-index: map-get($z-index, menu);
 }
 
 .site-navigation ul {
