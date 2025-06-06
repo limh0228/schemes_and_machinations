@@ -5,10 +5,10 @@ author: "Hannah Lim"
 date: 2025-05-29
 ---
 
-I used to print, fold, and post them all by hand, but as much as I love licking envelopes, I found that this approach was simply not scalable. As such, I am paywalling the physical copies -- I know, I'm really sorry. 
+I used to print, fold, and post them all by hand, but as much as I love licking envelopes, I found that this approach was not scalable. As such, I am paywalling the physical copies -- I know, I'm really sorry. Digital copies will be free to access below!
 
-### Analog Zines
-If you donate at least one dollar to the agenda of my choice, I will mail you the physical zine within a few business days via USPS. Please don't tell me the amounts, it's all based on honor system. The zine issue you will get is whatever is currently in print (I do not do backprints unless you ask me really nicely).
+### Extra, Extra, Get Your Analog Zines!
+If you donate at least one dollar to the agenda of my choice, I will mail you the physical zine within a few business days via USPS. Please don't tell me the amounts, it's all based on honor system. The zine issue you will get is the one currently in print (I do not do backprints unless you ask me really nicely, mostly because it's inconvenient for me).
 
 <br>
 
@@ -16,18 +16,16 @@ As a final hurrah for my first love, the great city of Seattle, the program of m
 
 <br>
 
-Then fill out [this form](/pages/zine_jotform.html) to request a zine.
-
+Then fill out  <a href="{{ "/pages/zine_jotform.html" | relative_url }}">this form</a> to request a zine.
 
 ### Free Digital Zines
 All my zines will be available for free digitally as well! 
 
-[TO BE PUBLISHED ON SOLSTICE] Issue 3: TBD
+[LINK TO BE PUBLISHED ON SOLSTICE] Issue 3: TBD
 
 ### Archive
-[WILL NOT BE REPRINTED] Issue 1: Goodbye Seattle
-
-[WILL NOT BE REPRINTED] Issue 2: To Be a Hatchling Again
+- Issue 1: Goodbye Seattle (Oct 2024)
+- Issue 2: To Be a Hatchling Again (Feb 2025)
 
 
 
