@@ -4,7 +4,7 @@ title: Stuff I Make
 ---
 
 # Essays
-1. [2025-05-30] [On Consumption]({% post_url 2025-05-30-hannah %})
+1. [2025-05-30] [On Consumption]({{ site.baseurl }}{% post_url 2025-05-30-hannah %})
 
 <br>
 
