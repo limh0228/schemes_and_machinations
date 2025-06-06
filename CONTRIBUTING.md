@@ -3,8 +3,7 @@
 ## Contributing Content
 This website is a community project! Please contribute!!! Please please please please ple
 
-## Contributing Code
-A lot of my site looks super uniform because it is heavily based on an open source Jekyll theme called Hitchens. I'd love for it to look more interesting, but don't yet have the web dev skills, so if you'd like to help me build it, I'd be extremely grateful. You can use the below guidelines to contribute. 
+if you'd like to help me build it, I'd be extremely grateful. You can use the below guidelines to contribute. 
 
 ## Writing a Post
 To contribute writing on a post, such as [this](_posts/2025-05-09-rebecca.md)
@@ -12,6 +11,9 @@ Follow the instructions [here](_posts/YYYY-MM-DD-template.md)
 <br>
 
 Or, alternatively send me what you'd like to post as an email. I'll create the post for you :) -- And I'll be pleased to have a little sneak peek.
+
+## Contributing Code
+A lot of my site looks super uniform because it is heavily based on an open source Jekyll theme called Hitchens. I'd love for it to look more interesting, but don't yet have the web dev skills, so 
 
 ### Testing Locally with Jekyll
 1. Clone the repository locally
