@@ -12,7 +12,7 @@ Learn how to contribute your art on my [Github](https://github.com/limh0228/sche
 <br> 
 
 ## Community Showcase (Stuff my friends make!)
-- [Poetry by Rebecca Epstein]({% post_url 2025-05-09-rebecca %})
+- [Poetry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-rebecca %})
 
 ## Community Discussion
 We are facilitating this part through GitHub because I'm too lazy to build backend for this site. Guys, it's literally just a blog; it's not that serious.
