@@ -3,7 +3,7 @@ layout: post
 title: Let's Make Stuff Together
 ---
 
-This website is a group project. Feel free to contribute your writing or links to stuff you made! Shows, merch, websites, are all welcome. You guys are really cool, and I just think it's a waste you don't know each other!!! 
+You guys are really cool, and I just think it's a waste you don't know each other!!! 
 
 <br>
 
@@ -11,8 +11,15 @@ Learn how to contribute your art on my [Github](https://github.com/limh0228/sche
 
 <br> 
 
-## Community Showcase (Stuff my friends make!)
-- [Poetry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-rebecca %})
+## Poems from the Masses (you guys)
+- [2025-05-09] [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
+
+<br> 
+
+## Announcements, Events, Releases, and Drops
+This is a section for your releases, events, websites, announcements and new drops. Gatekeeping is for losers.
+
+<br> 
 
 ## Community Discussion
 We are facilitating this part through GitHub because I'm too lazy to build backend for this site. Guys, it's literally just a blog; it's not that serious.
