@@ -2,7 +2,7 @@
 layout: post
 title: "On Consumption"
 author: "Hannah Lim"
-date: 2025-05-30
+date: 2025-02-16
 ---
 
 Sex is often modeled as a possessive transaction. It's inescapable: from the macro-unit of the ubiquitous culture of monogamy, down to the pervasive micro-unit of our very language: You "give yourself" to the other. You "release" your inhibitions. You sensuously "take me!" (How pervasive, the mindset of possession). However, when a penis is inside me, I struggle these days not to enact a mindset of consumption. (I am a good little capitalist).
