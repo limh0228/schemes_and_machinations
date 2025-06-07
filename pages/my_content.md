@@ -4,12 +4,17 @@ title: Stuff I Make
 ---
 
 # Essays
-1. [2025-05-30] [On Consumption]({{ site.baseurl }}{% post_url 2025-05-30-hannah %})
+<!-- Jekyll sites builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated  to remove baseurl prefix once Github pages updates its Jekyll version -->
+1. [2025-02-16] [On Consumption]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
+
+2. [2025-06-07] [Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-07-blog-manifesto %})
 
 <br>
 
 # Poetry
-One day there will be blog posts here I bet...
+1. [2024-06-10] [A Long Season of Color]({{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %})
+2. [2024-11-17] [A Modest Room: San Jose in October]({{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %})
+3. [2024-12-27] [Sisters]({{ site.baseurl }}{% post_url 2024-12-27-sisters %})
 
 <br>
 
