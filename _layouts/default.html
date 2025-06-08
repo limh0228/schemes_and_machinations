@@ -14,27 +14,17 @@
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
-
   </head>
   <body>
 
     {{ content }}
 
-    {% unless site.hide_search %}
-      {% include search.html %}
-    {% endunless %}
+    {% include search.html %}
 
-    {% include menu.html %}
-
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p><small>It took me a long time to choose all my site colors, so honestly I will not be receptive to feedback on this.</small></p>
-        <p><small>However, I did do my best to comply with <a href="https://adata.org/learn-about-ada">ADA Design Guidelines</a>.</small></p>
-      </aside>
-    {% endunless %}
+    <aside class="site-credits">
+      <p><small>It took me a long time to choose all my site colors, so honestly I will not be receptive to feedback on this.</small></p>
+      <p><small>However, I did do my best to comply with <a href="https://adata.org/learn-about-ada">ADA Design Guidelines</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</small></p>
+    </aside>
 
   </body>
 </html>
