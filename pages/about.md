@@ -1,17 +1,26 @@
 ---
-layout: post
-title: About
+layout: page
+title: Hi. I'm Hannah
+author: "Hannah Lim"
+date: 2025-05-29
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+
+
+This is the landing pad for everything I make. Mostly this blog will be about my writing, maybe some music or code, but I also just moved to NYC in October 2024, so there are some resources here for community organizing and making friends. There is also a community board to help you guys get connected with each other and showcase all the cool things you're up to.
+
+<br>
+
+Contact me if you’d like to get freaky and make things together. We can jam, or write something together… My email is Lim.Hannah0228@gmail.com
+
+<br>
+
+This blog is a group project because...we only have each other here on Earth. There's nothing else. Just us. I'm just grateful to be here. I want to be a part of things.
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Dogwood trees at Greenlake" src="{{ "/assets/images/me.jpeg" | relative_url }}" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Dogwood trees at Greenlake
   </figcaption>
-</figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+For more info, read my <a href = "{{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %}">blog manifesto</a>
