@@ -16,7 +16,7 @@ Or, alternatively send me what you'd like to post as an email. I'll create the p
 A lot of my site looks super uniform because it is heavily based on an open source Jekyll theme called Hitchens. I'd love for it to look more interesting, but don't yet have the web dev skills, so 
 
 ### Testing Locally with Jekyll
-1. Clone the repository locally
+1. Clone the repository locally. Pull from main.
 2. Make desired changes
 3. Follow [these instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) provided by GitHub to test locally with Jekyll
 4. The publishing source of this site is `schemes_and_machinations/` From here, run: `bundle exec jekyll serve

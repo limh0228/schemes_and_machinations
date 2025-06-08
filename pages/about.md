@@ -22,3 +22,5 @@ This blog is a group project because...we only have each other here on Earth. Th
   <figcaption>
     Dogwood trees at Greenlake
   </figcaption>
+
+For more info, read my <a href = "{{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %}">blog manifesto</a>
