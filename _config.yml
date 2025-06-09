@@ -17,7 +17,7 @@ title: Hi Welcome to my blog~!
 email: Lim.Hannah0228@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We've been waiting for you a long time and everyone is really happy that you could make it! This blog's source code is hosted on my GitHub where you are welcome to file a bug or clone my repo and contribute <3
-url: "hannahs.garden" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hannahs.garden/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
