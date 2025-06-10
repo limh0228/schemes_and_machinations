@@ -11,8 +11,8 @@ title: Stuff I Make
 <br>
 
 # Poetry
-1. [2024-06-10] [A Long Season of Color]({{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %})
-2. [2024-11-17] [A Modest Room: San Jose in October]({{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %})
+1. [2024-06-10] [A Long Season of Color (Seattle in June)]({{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %})
+2. [2024-11-17] [A Modest Room (San Jose in October)]({{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %})
 3. [2024-12-27] [Sisters]({{ site.baseurl }}{% post_url 2024-12-27-sisters %})
 
 <br>
