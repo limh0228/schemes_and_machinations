@@ -12,19 +12,18 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 - [2025-05-09] [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
 - [2025-06-07] [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
 - [2025-06-09] [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
+- [2025-06-17] [Sichuan Potatoes by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
 
 <br> 
 
 ## Announcements, Events, Releases, and Drops
-This is a section for your releases, events, websites, announcements and new drops. Gatekeeping is for losers.
+This is a section for your releases, events, websites, announcements and new drops. Gatekeeping is for losers. All events enumerated below are explicitly okayed for open invitation!
+
+- [2025-06-20/21] One Woman Queer Roach Operetta by Adri. [Tickets here](https://tickets.thetanknyc.org/EventAvailability?EventId=41601&scroll=timeAndDates) -- I'm going on the Friday! She literally wrote and is performing this entire thing???
+- [2025-06-21] The Examined Review Volume 1 Launch Party by Adam. [RSVP here](https://www.eventbrite.com/e/the-examined-review-volume-1-launch-party-tickets-1395407835399?aff=oddtdtcreator) -- He designed and edited it! Also it is hosted in a garden, like shut up that's so cute
+- [2025-07-11] Williamsburg/Greenpoint Neighbors Potluck and Picnic hosted by the sexy ladies at 185, fuck I hope it's blazing hot and everyone brings watermelon. [RVSP link](https://partiful.com/e/0IjkMKKJhPARk68aZGa1)
 
 <br> 
-
-## Community Discussion
-We are facilitating this part through GitHub because I'm too lazy to build backend for this site. Guys, it's literally just a blog; it's not that serious.
-- [MUSIC SHARE MASTER THREAD](https://github.com/limh0228/schemes_and_machinations/discussions/10)
-
-<br>
 
 ## Contributing
 - Learn how to contribute your art on my [Github](https://github.com/limh0228/schemes_and_machinations/blob/main/CONTRIBUTING.md), where this website's source code is hosted! 
