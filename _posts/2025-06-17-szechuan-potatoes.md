@@ -46,6 +46,9 @@ Ideally take them out and crush them up a little into smaller pieces, but you ca
 <br>
 
 Cut garlic and ginger into thin long strips
+
+<br>
+
 Cut scallions and cilantro to roughly match the size of the potatoes 
 
 <br>
