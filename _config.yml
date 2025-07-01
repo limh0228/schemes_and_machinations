@@ -18,6 +18,8 @@ email: Lim.Hannah0228@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We've been waiting for you a long time and everyone is really happy that you could make it! This blog's source code is hosted on my GitHub where you are welcome to file a bug or clone my repo and contribute <3
 url: "https://hannahs.garden/" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /favicon.ico
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
