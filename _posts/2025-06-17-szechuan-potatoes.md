@@ -7,6 +7,7 @@ date: 2025-06-17
 
 _Ingredients:_
 <br>
+
 - Potato (ideally red or gold, avoid russet, high starch varieties)
 
 - 2 cloves of garlic
