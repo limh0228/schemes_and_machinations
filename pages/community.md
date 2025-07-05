@@ -29,19 +29,36 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 This is a section for your releases, events, websites, announcements and new drops. Gatekeeping is for losers. All events enumerated below are explicitly okayed for open invitation!
 
 - [2025-07-11] Williamsburg/Greenpoint Neighbors Potluck and Picnic hosted by the sexy ladies at 185, fuck I hope it's blazing hot and everyone brings watermelon. [RVSP link](https://partiful.com/e/0IjkMKKJhPARk68aZGa1)
+- [2025-07-12] [McCarren Playfair/Block Party](https://partiful.com/e/2tlrYfYCplrXtpL0wVJu?_bhlid=e9b022e84973747f4aa1b99f9bfd2f5fcf35292e): It'll be like a club fair, with free activities and hobby/interest groups tabling, but just hosted and organized by a bunch of my neighbors on Driggs
 
 <br>
-Event Archive
 
-- [2025-06-20/21] One Woman Queer Roach Operetta by Adri. She literally wrote and is performing this entire thing???
-- [2025-06-21] The Examined Review Volume 1 Launch Party by Adam. He designed and edited it! Also it is hosted in a garden, like shut up that's so cute
+<details>
+    <summary>Show/Hide Event Archive</summary>
 
-<br> 
+    - [2025-06-20/21] One Woman Queer Roach Operetta by Adri. She literally wrote and is performing this entire thing???
 
-## Contributing
-- Learn how to contribute your art on my [Github](https://github.com/limh0228/schemes_and_machinations/blob/main/CONTRIBUTING.md), where this website's source code is hosted! 
-- Poems, music, photos, everything is welcome. Programming contributions are also welcome. Fix bugs, add buttons, help me make it nice.
-- Suggest smaller edits by filling out the form [here](https://form.jotform.com/251594028615055) or by filing a bug [here](https://form.jotform.com/251594028615055)
+    <br><br>
+
+    - [2025-06-21] The Examined Review Volume 1 Launch Party by Adam. He designed and edited it! Also it is hosted in a garden, like shut up that's so cute
+
+</details> 
+
+## NYC interest groups that are lowkey radical
+Getting involved with these groups helps me practically embody progressive socialist ethics in my daily life. I believe that creating radical change in sustainable, nonviolent ways -- though not to discount unsustainable, violent methods -- is the only way for us to get through life while persistently rescusitating hope for a better world.
+
+- [Equity Liberty Theater](https://www.pineyforkpress.com/): Continuous Free/Accessible Community Theater Classes/Shows
+
+- [North Brooklyn Mutual Aid Group](https://northbrooklynmutualaid.org/Community-Initiatives): Always hosting fun community volunteering events
+
+<br>
+
+
+
+
+
+
+
 
 
 
