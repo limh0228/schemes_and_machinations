@@ -88,14 +88,14 @@ hr {
   margin: 4em 0;
 }
 
-img {
+img, video {
   display: flex;
   max-width: 100%;
   height: auto;
   margin: 2em auto;
 }
 
-figure img {
+figure img, figure video {
   margin: 2em auto 1em;
 }
 
@@ -113,7 +113,7 @@ figcaption {
 }
 
 .home {
-  max-width: 24em;
+  max-width: 35em;
   margin: auto;
   padding: 4em 1em;
 }
