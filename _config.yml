@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hi Welcome to my blog~!
+title: Hi, Welcome to my blog~!
 email: Lim.Hannah0228@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We've been waiting for you a long time and everyone is really happy that you could make it! This blog's source code is hosted on my GitHub where you are welcome to file a bug or clone my repo and contribute <3
@@ -39,5 +39,5 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 4
 paginate_path: "/page/:num/"
