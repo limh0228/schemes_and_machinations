@@ -12,3 +12,16 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+/* 
+Street Transvestites Action Revolutionaries Font 
+
+An open source typeface based on posters made by Street Transvestites Action Revolutionaries,
+the militant group and youth shelter founded by Slyvia Rivera and Marsha P. Johnson
+
+Terms of use and downloads available at: https://genderfailpress.info/PROTEST-FONTS
+*/
+@font-face {
+  font-family: 'STAR';
+  src: url('#{$asset_url}/fonts/StreetTransvestiteActionRevolutionaries-Regular.otf');
+}
