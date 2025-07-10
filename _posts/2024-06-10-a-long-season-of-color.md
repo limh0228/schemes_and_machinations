@@ -37,6 +37,8 @@ to pink, giving a long season of color.
 
 I think they look just like paper. 
 
+<br>
+
 The ocean is warmer too,
 
 so that the children at the beach can sit in the lapping tides,
@@ -89,7 +91,7 @@ I have never asked before. I have been very good!”
 
 <br>
 
-For only one moment she holds me in her sympathy dnd
+For only one moment she holds me in her sympathy and
 
 then she forges on. 
 
