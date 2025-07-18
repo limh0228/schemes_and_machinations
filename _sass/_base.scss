@@ -64,8 +64,10 @@ blockquote {
   margin: 2em auto;
   opacity: .8;
   > * {
-    padding: 0 3em;
+    padding: 1em 3em;
   }
+  border-left: .25em solid $text-color;
+  background-color: $dark-highlight;
 }
 
 blockquote.epigraph {
@@ -97,7 +99,9 @@ img, video {
 
 embed {
   display: flex;
-  min-width: 100%;
+  // If an embedded element is smaller than the parent element than
+  // width will stretch it to the full width of its parent, max-width will not
+  width: 100%; 
   min-height: 50em;
   margin: 2em auto;
 }
