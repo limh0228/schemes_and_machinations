@@ -27,6 +27,15 @@ title: Stuff I Make
 <br>
 
 <!-- For navigation from sidebar -->
+<div id="stories"></div>
+
+## ♡ Stories ♡
+
+1. [2025-07-18] [Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
+
+<br>
+
+<!-- For navigation from sidebar -->
 <div id="music"></div>
 
 ## ⊹₊⋆ Music ⋆₊⊹

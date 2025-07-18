@@ -30,5 +30,9 @@ Though that strontium atom could only be kept in isolation for a moment before b
 
 <br>
 
-Find more of Sarah's writing on [substack](https://substack.com/@swangxswang) or [Instagram](https://www.instagram.com/swangxswang/)!
+<blockquote>
+  <p>Find more of Sarah's writing on <a href = "https://substack.com/@swangxswang">substack</a> or <a href = "https://www.instagram.com/swangxswang/">Instagram</a>! </p>
+</blockquote>
+
+
 
