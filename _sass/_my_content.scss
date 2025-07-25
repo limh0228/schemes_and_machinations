@@ -25,50 +25,17 @@
     }
 }
 
-.my_content > h1,h2,h3 {
+.my_content h1,h2,h3 {
   font-size: 2em;
-  text-align: left;
+  text-align: center;
+}
+
+.my_content .section-header{
+  background-color: $brand-color-dark;
+  padding: 0.1em;
+  border-radius: 15px;
 }
 
 .my_content a:hover {
   background: $highlight;
 }
-
-
-/*
-.my_content {
-  background: #092c69;
-  margin: 2em auto;
-  max-width: 60rem;
-  padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
-}
-
-
-.my_content > * {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 36rem;
-  padding: 0 1em;
-}
-
-
-
-.my_content p {
-  text-align: left;
-  text-indent: 1.5em;
-  text-indent: 0;
-}
-
-
-.my_content dl,
-.my_content ul,
-.my_content ol {
-  margin: 1.5em;
-}
-
-.my_content li {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
-}
-*/

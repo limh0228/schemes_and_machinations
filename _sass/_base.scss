@@ -163,3 +163,15 @@ figcaption {
   padding: 0 2em;
   text-align: center;
 }
+
+.secret-button {
+  background-color: $brand-color;
+  border: $brand-color;
+  color: $brand-color;
+  text-align: center;
+  transition-duration: 0.4s;
+}
+
+.secret-button:hover {
+  background-color: white;
+}

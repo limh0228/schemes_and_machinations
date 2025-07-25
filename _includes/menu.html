@@ -1,6 +1,9 @@
 {% assign menu = site.data.menu %}
-
 {% if menu %}
+  <form action= "{{ "/pages/secret-button/secret-button.html" | relative_url }}">
+    <button type = "submit" class = "secret-button" type="button">SECRET BUTTON! DO NOT CLICK!!</button>
+  </form>
+
   <nav class="site-navigation" role="navigation">
     <ul>
       <li>
