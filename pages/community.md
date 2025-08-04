@@ -17,6 +17,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 ## Essays from the Masses
 - [2025-06-28] [Strontium by Sarah Wang]({{ site.baseurl }}{% post_url 2025-06-28-strontium %})
+- [2025-08-04] [Death (Part 1) by Kyle Respicio]({{ site.baseurl }}{% post_url 2025-08-04-kyle-death %})
 
 <br> 
 

@@ -12,6 +12,7 @@ title: Stuff I Make
 1. [2025-02-16] [On Consumption]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
 2. [2025-06-08] [Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
 3. [2025-07-18] [Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
+3. [2025-07-25] [Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
 
 <br><br>
 
