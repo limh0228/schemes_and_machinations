@@ -12,7 +12,7 @@ title: Stuff I Make
 1. [2025-02-16] [On Consumption]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
 2. [2025-06-08] [Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
 3. [2025-07-18] [Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
-3. [2025-07-25] [Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
+4. [2025-07-25] [Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
 
 <br><br>
 
@@ -24,7 +24,8 @@ title: Stuff I Make
 1. [2024-06-10] [A Long Season of Color (Seattle in June)]({{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %})
 2. [2024-11-17] [A Modest Room (San Jose in October)]({{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %})
 3. [2024-12-27] [Sisters]({{ site.baseurl }}{% post_url 2024-12-27-sisters %})
-3. [2025-06-25] [On heat death / sleeping next to you]({{ site.baseurl }}{% post_url 2025-06-25-heat-death %})
+4. [2025-06-25] [On heat death / sleeping next to you]({{ site.baseurl }}{% post_url 2025-06-25-heat-death %})
+5. [2025-08-07] [Too Much Dreams]({{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %})
 
 <br><br>
 

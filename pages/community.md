@@ -21,6 +21,15 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <br> 
 
+## All the Beautiful Music We Make
+Music by friends. Feel free to add your own stuff to the playlist!
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2wfZD2hWFIMa9QIOv4Xobh?utm_source=generator&theme=0" width="100%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
 ## Home Recipes Imbued with Ultimate Power
 - [2025-06-17] [Sichuan Potatoes by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
 

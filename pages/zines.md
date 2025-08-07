@@ -14,7 +14,7 @@ All my analog paper zines used to be free, but I found that this approach was no
 <br>
 
 If you donate at least one dollar to the agenda of my choice, I will mail you the physical zine within a few business days via USPS. Don't tell me the amounts (I won't even be able to verify them), it's all based on honor system. The zine issue you will get is the one currently in print (I do not do backprints unless you ask me really nicely, mostly because it's inconvenient for me).
-
+<br>
 As a final hurrah for my first love, the great city of Seattle, the program of my choice is the University District Food Bank. 
 
 <br>
