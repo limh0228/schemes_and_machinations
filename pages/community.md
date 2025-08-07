@@ -22,7 +22,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <br> 
 
 ## All the Beautiful Music We Make
-Feel free to add your own stuff to the playlist!
+Music by friends. Feel free to add your own stuff to the playlist!
 
 <br>
 
