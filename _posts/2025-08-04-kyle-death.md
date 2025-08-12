@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Death at gooeyfunction.com"
-author: "Kyle Respicio"
+author: "Kyle"
 date: 2025-08-04
 published: true
 ---
