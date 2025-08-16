@@ -20,13 +20,11 @@ As a final hurrah for my first love, the great city of Seattle, the program of m
 <br>
 
 #### Free Digital Zines
-All my zines will be available for free digitally as well! 
+All my zines will be available for free digitally as well!
 
-[LINK TO BE PUBLISHED ON SOLSTICE] Issue 3: TBD
-
-#### Archive
-- Issue 1: Goodbye Seattle (Oct 2024)
-- Issue 2: To Be a Hatchling Again (Feb 2025)
+- [OCT 2024] <a href="{{ "/assets/images/zines/Issue 1.pdf" | relative_url }}">Issue 1: Goodbye Seattle</a>
+- [FEB 2025] <a href="{{ "/assets/images/zines/Issue 2.pdf" | relative_url }}">Issue 2: To Be a Hatchling Again</a>
+- [JUN 2025] <a href="{{ "/assets/images/zines/Issue 3.pdf" | relative_url }}">Issue 3: Good, Simple and Honest</a> 
 
 
 
