@@ -9,8 +9,8 @@
     position: relative;
     text-align: center;
     padding: 2rem 1rem;
-    color: rgba(255,255,255,.5);
-    background-color: #202020;
+    color: $text-color;
+    background-color: $brand-color-dark;
     z-index: map-get($z-index, sidebar);
 }
 @media (min-width: 48em) {
@@ -26,7 +26,7 @@
   
 /* Sidebar links */
 .sidebar a {
-    color: #fff;
+    color: $text-color;
 }
 
 .sidebar a:hover {
@@ -35,7 +35,7 @@
   
 /* About section */
 .sidebar-about h1 {
-    color: #fff;
+    color: $text-color;
     margin-top: 0;
     font-family: 'STAR';
     font-size: 3.25rem;
