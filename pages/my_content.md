@@ -42,6 +42,16 @@ title: Stuff I Make
 3. [2025-06-11] [Our Dreams Are Simple, You and Me](https://open.spotify.com/track/0ugmPrrcBomTSwFMkVm0Mm?si=eb785944c30f4ecb)
 4. [2025-06-16] [Tuyo by Rodrigo Amarante - Korean Ver. Cover](https://open.spotify.com/track/7EPXEPWjW2EdPeX1jHY4td?si=4a0a99b535be4ee7)
 
+<br><br>
+
+<!-- For navigation from sidebar -->
+<div id="recipes"></div>
+
+<h2 class = "section-header">⋆˚✿˖° Recipes ˚✿˖°⋆</h2>
+
+1. [2025-08-19] [Steamed Eggs while Ishita Showers]({{ site.baseurl }}{% post_url 2025-08-19-steamed-eggs %})
+
+
 
 
 
