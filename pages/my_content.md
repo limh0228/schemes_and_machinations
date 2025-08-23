@@ -25,6 +25,7 @@ title: Stuff I Make
 2. [2024-11-17] [A Modest Room (San Jose in October)]({{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %})
 3. [2024-12-27] [Sisters]({{ site.baseurl }}{% post_url 2024-12-27-sisters %})
 4. [2025-06-25] [On heat death / sleeping next to you]({{ site.baseurl }}{% post_url 2025-06-25-heat-death %})
+5. [2025-08-07] [Too much dreams]({{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %})
 6. [2025-08-19] ["I don’t want to lose more people to Palm Beach"]({{ site.baseurl }}{% post_url 2025-08-19-palm-beach %})
 
 <br><br>
@@ -47,7 +48,7 @@ title: Stuff I Make
 <!-- For navigation from sidebar -->
 <div id="recipes"></div>
 
-<h2 class = "section-header">⋆˚✿˖° Recipes ˚✿˖°⋆</h2>
+<h2 class = "section-header">⋆˚✿˖ Recipes ✿˖°⋆</h2>
 
 1. [2025-08-19] [Steamed Eggs while Ishita Showers]({{ site.baseurl }}{% post_url 2025-08-19-steamed-eggs %})
 
