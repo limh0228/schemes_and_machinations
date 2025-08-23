@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steamed Eggs while Ishita Showers"
-author: "Hannah"
+author: "Hannah Lim"
 date: 2025-08-19
 published: true
 ---
