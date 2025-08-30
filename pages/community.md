@@ -7,6 +7,10 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <br> 
 
+## Uncategorized contributions
+- [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
+- [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
+
 ## Poems from the Masses
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
 - [2025-05-09] [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
@@ -27,11 +31,6 @@ Music by friends. Feel free to add your own stuff to the playlist!
 <br>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2wfZD2hWFIMa9QIOv4Xobh?utm_source=generator&theme=0" width="100%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<br>
-
-## Home Recipes Imbued with Ultimate Power
-- [2025-06-17] [Sichuan Potatoes by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
 
 <br> 
 
