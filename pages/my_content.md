@@ -28,6 +28,7 @@ title: Stuff I Make
 4. [2025-06-25] [On heat death / sleeping next to you]({{ site.baseurl }}{% post_url 2025-06-25-heat-death %})
 5. [2025-08-07] [Too much dreams]({{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %})
 6. [2025-08-19] ["I don’t want to lose more people to Palm Beach"]({{ site.baseurl }}{% post_url 2025-08-19-palm-beach %})
+7. [2025-09-01] ["Do not sail to Byzantium"]({{ site.baseurl }}{% post_url 2025-09-01-byzantium %})
 
 <br><br>
 
