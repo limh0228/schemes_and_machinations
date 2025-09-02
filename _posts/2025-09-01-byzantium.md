@@ -16,7 +16,7 @@ That is a country only for old men. The young
 
 In one another’s arms, birds in the trees,
 
--- Undying generations –- at their song,
+-- Undying generations -- at their song,
 
 Fish, flesh or fowl, begot and beget all summer long
 
@@ -32,7 +32,7 @@ II.
 
 An aged man is the paltry thing,
 
-That clap his hands, sing, and louder sing
+That claps his hands, sing, and louder sing
 
 To hear song fade and sweeter
 
@@ -40,7 +40,7 @@ For each echo into amnesia when song
 
 Passes over the horizon of its birth
 
-And thus forgets infinitude.
+And thus fathoms an end, after all.
 
 Do not sail to Byzantium.
 
@@ -94,8 +94,8 @@ V.
 
 <br>
 
-Gods will beckon you to glory
+Gods will beckon you to glory,
 
-Because they are jealous that they can never
+Jealous wretched that they can never
 
 love like mortal animals do.
