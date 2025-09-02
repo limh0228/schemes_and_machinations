@@ -66,15 +66,15 @@ IV.
 
 <br>
 
-Love. Once out of nature, you shall 
+Love. Once out of nature, you shall
 
 Neglect to swim up falls and struggle
 
-No longer to crowd seas, nor sing along
+No longer to crowd seas, nor sing
 
 Tunes for us, who breathe and
 
-Breathe into each other lips. 
+Breathe into each others lips.
 
 A golden bird set upon a golden bough
 
@@ -82,9 +82,9 @@ Sings not music like yours. Like a child,
 
 it does not imagine its breath
 
-Will end. Song is labored sung by decaying lungs,
+ends. Song is labored sung by decaying lungs,
 
-And ring not like hammered gold but searing light.
+And ring not like hammered gold but searing light,
 
 Eating itself to bright, hot star-death.
 
@@ -94,8 +94,12 @@ V.
 
 <br>
 
-Gods will beckon you to glory,
+Gods beckon you to glory sly,
 
-Jealous wretched that they can never
+Jealous wretched that they never might
 
 love like mortal animals do.
+
+Do not sail to Byzantium
+
+If I cannot sail with you.
