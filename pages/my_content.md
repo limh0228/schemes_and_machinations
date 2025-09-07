@@ -53,7 +53,7 @@ title: Stuff I Make
 <h2 class = "section-header">⋆˚✿˖ Misc ✿˖°⋆</h2>
 
 1. [2025-08-19] [Recipe for Steamed Eggs while Ishita Showers]({{ site.baseurl }}{% post_url 2025-08-19-steamed-eggs %})
-2. [2025-09-04] Suffregette themed fridge magnet poetry! [Share your excellent magnet poetry here](https://github.com/limh0228/schemes_and_machinations/discussions/69)
+2. [2025-09-04] Suffragette themed fridge magnet poetry! [Share your excellent magnet poetry here](https://github.com/limh0228/schemes_and_machinations/discussions/69)
 
 <br>
 
