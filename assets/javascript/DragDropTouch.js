@@ -1,3 +1,5 @@
+// SOURCE CODE: https://www.npmjs.com/package/drag-drop-touch
+
 var DragDropTouch;
 
 (function (DragDropTouch_1) {

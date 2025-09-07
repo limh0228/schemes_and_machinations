@@ -18,7 +18,7 @@
   <div id="magnet16" class="draggable">ass</div>
   <div id="magnet17" class="draggable">and</div>
   <div id="magnet18" class="draggable">tits</div>
-  <div id="magnet19" class="draggable">ACAB</div>
+  <div id="magnet19" class="draggable">overthrow</div>
   <div id="magnet15" class="draggable">God</div>
   <div id="magnet20" class="draggable">she</div>
   <div id="magnet21" class="draggable">love</div>
@@ -37,6 +37,12 @@
 
     function dragElement(elmnt) {
       var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+
+      // Needed to stop text highlighting on mobile
+      elmnt.ontouchstart = function(e) {
+        e.preventDefault();
+      }
+
       elmnt.onmousedown = dragMouseDown;
 
       function dragMouseDown(e) {
