@@ -1,5 +1,5 @@
 ---
-layout: page_with_sidebar
+layout: my_content
 title: Stuff I Make
 ---
 
