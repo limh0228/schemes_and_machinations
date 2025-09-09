@@ -15,4 +15,6 @@ title: Contribute to my Blog!
 
 3. The open source typeface [Street Transvestite Action Revolutionaries](https://genderfailpress.info/PROTEST-FONTS) uses an OFL license which can be found [here](/assets/fonts/Street Transvestite Action Revolutionaries License.txt)
 
+3. The site's comment system is powered by [Cusdis](https://cusdis.com/doc#/), a free open source privacy-first comment system.
+
 
