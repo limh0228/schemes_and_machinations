@@ -55,6 +55,8 @@ Music by friends. Feel free to add your own stuff to the playlist!
 <h2 class = "section-header">NYC interest groups that are lowkey radical</h2>
 Getting involved with these groups helps me practically embody progressive socialist ethics in my daily life. I believe that creating radical change in sustainable, nonviolent ways -- though not to discount unsustainable, violent methods -- is the only way for us to get through life while persistently rescusitating hope for a better world.
 
+<br>
+
 - [Equity Liberty Theater](https://www.pineyforkpress.com/): Continuous Free/Accessible Community Theater Classes/Shows. This distribution list also often casts open calls for emerging writers and actors!
 
 - [North Brooklyn Mutual Aid Group](https://northbrooklynmutualaid.org/Community-Initiatives): Decentralized community initiatives for Williamsburg/Greenpoint, neighbor to neighbor. I work on the community fridges which provide access to food freely given and free to take, neighbor to neighbor.
