@@ -106,6 +106,15 @@ embed {
   margin: 2em auto;
 }
 
+object {
+  display: flex;
+  // If an embedded element is smaller than the parent element than
+  // width will stretch it to the full width of its parent, max-width will not
+  width: 100%; 
+  min-height: 50em;
+  margin: 2em auto;
+}
+
 figure img, figure video {
   margin: 2em auto 1em;
 }
