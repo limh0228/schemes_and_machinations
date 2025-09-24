@@ -22,16 +22,16 @@ title: Stuff I Make
 
 <h2 class = "section-header">⭒❀˚ Poetry °❀ೃ࿔</h2>
 
-<div style="display: flex; justify-content: space-between; padding: 2em; min-width: 100%">
+<div style="display: flex; justify-content: space-between; padding: 2em;">
     <a style ="min-width: 100%" href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
-        <img style ="min-width: 100%" alt="Illustration banner" src="{{ "/assets/images/jessie/a-long-season-of-color.png" | relative_url }}" />
+        <img style ="min-width: 100%" alt="Illustration or flowers, a woman with tears" src="{{ "/assets/images/jessie/a-long-season-of-color.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2024-06-10] A Long Season of Color (Seattle in June)</p>
     </a>
 </div>
 
 <div style="display: flex; justify-content: space-between; padding: 2em;">
     <a href="{{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %}">
-        <img alt="Illustration banner" src="{{ "/assets/images/jessie/a-modest-room.png" | relative_url }}" />
+        <img alt="Illustration of three chairs" src="{{ "/assets/images/jessie/a-modest-room.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2024-11-17] A Modest Room (San Jose in October)</p>
     </a>
 </div>
@@ -40,7 +40,7 @@ title: Stuff I Make
 
 <div style="display: flex; justify-content: space-between; padding: 2em;">
     <a href="{{ site.baseurl }}{% post_url 2025-06-25-heat-death %}">
-        <img alt="Illustration banner" src="{{ "/assets/images/jessie/heat-death.png" | relative_url }}" />
+        <img alt="Illustration of person holding a star" src="{{ "/assets/images/jessie/heat-death.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2025-06-25] On heat death / sleeping next to you</p>
     </a>
 </div>
@@ -55,7 +55,7 @@ title: Stuff I Make
 
 <div style="display: flex; justify-content: space-between; padding: 2em;">
     <a href="{{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %}">
-        <img alt="Illustration banner" src="{{ "/assets/images/debris-in-the-harbor.jpg" | relative_url }}" />
+        <img alt="Picture of the East River in Autumn, leaves in the water" src="{{ "/assets/images/debris-in-the-harbor.jpeg" | relative_url }}" />
         <p style="margin-left: 20px;">[2025-09-21] Desolate Summer</p>
     </a>
 </div>
