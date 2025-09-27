@@ -26,6 +26,9 @@ title: Stuff I Make
     <a style ="min-width: 100%" href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
         <img style ="min-width: 100%" alt="Illustration or flowers, a woman with tears" src="{{ "/assets/images/jessie/a-long-season-of-color.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2024-06-10] A Long Season of Color (Seattle in June)</p>
+        <figcaption style="margin-left: 20px;text-align: left;">
+            Artistic credit: Jessie Li
+        </figcaption>
     </a>
 </div>
 
@@ -33,6 +36,9 @@ title: Stuff I Make
     <a href="{{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %}">
         <img alt="Illustration of three chairs" src="{{ "/assets/images/jessie/a-modest-room.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2024-11-17] A Modest Room (San Jose in October)</p>
+        <figcaption style="margin-left: 20px;text-align: left;">
+            Artistic credit: Jessie Li
+        </figcaption>
     </a>
 </div>
 
@@ -42,23 +48,26 @@ title: Stuff I Make
     <a href="{{ site.baseurl }}{% post_url 2025-06-25-heat-death %}">
         <img alt="Illustration of person holding a star" src="{{ "/assets/images/jessie/heat-death.png" | relative_url }}" />
         <p style="margin-left: 20px;">[2025-06-25] On heat death / sleeping next to you</p>
+        <figcaption style="margin-left: 20px;text-align: left;">
+            Artistic credit: Jessie Li
+        </figcaption>
     </a>
 </div>
 
 
 [[2025-08-07] Too much dreams]({{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %})
-<br>
-[[2025-08-19] "I don’t want to lose more people to Palm Beach"]({{ site.baseurl }}{% post_url 2025-08-19-palm-beach %})
-<br>
-[[2025-09-01] Do not sail to Byzantium]({{ site.baseurl }}{% post_url 2025-09-01-byzantium %})
+
 <br>
 
-<div style="display: flex; justify-content: space-between; padding: 2em;">
-    <a href="{{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %}">
-        <img alt="Picture of the East River in Autumn, leaves in the water" src="{{ "/assets/images/debris-in-the-harbor.jpeg" | relative_url }}" />
-        <p style="margin-left: 20px;">[2025-09-21] Desolate Summer</p>
-    </a>
-</div>
+[[2025-08-19] "I don’t want to lose more people to Palm Beach"]({{ site.baseurl }}{% post_url 2025-08-19-palm-beach %})
+
+<br>
+
+[[2025-09-01] Do not sail to Byzantium]({{ site.baseurl }}{% post_url 2025-09-01-byzantium %})
+
+<br>
+
+[[2025-09-21] Desolate Summer]({{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %})
 
 <br><br>
 

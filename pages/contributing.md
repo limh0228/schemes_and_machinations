@@ -2,7 +2,7 @@
 layout: post
 title: Contribute to my Blog!
 ---
-#### Who me? Yeah, bitch, you.
+#### Who me? Yeah, you!
 - You are always welcome to email me about contributions: Lim.Hannah0228@gmail.com
 - Learn how to contribute your art on my [Github](https://github.com/limh0228/schemes_and_machinations/blob/main/CONTRIBUTING.md), where this website's source code is hosted! 
 - Poems, music, photos, recipes, everything is welcome. Programming contributions are also welcome. Fix bugs, add buttons, help me make it nice.
@@ -15,6 +15,12 @@ title: Contribute to my Blog!
 
 3. The open source typeface [Street Transvestite Action Revolutionaries](https://genderfailpress.info/PROTEST-FONTS) uses an OFL license which can be found [here](/assets/fonts/Street Transvestite Action Revolutionaries License.txt)
 
-3. The site's guest book is powered by [Cusdis](https://cusdis.com/doc#/), a free open source privacy-first comment system.
+4. The site's guest book is powered by [Cusdis](https://cusdis.com/doc#/), a free open source privacy-first comment system.
+
+#### Contributing Artists
+1. Find more of Jessie's art at [their website](https://sythia.myportfolio.com)!
+2. Find more of Sarah's writing on [Substack](https://substack.com/@swangxswang)
+3. Find more of Kyle's art at [his website](https://gooeyfunction.neocities.org/)
+4. Find more of Lewis's photography [here](https://www.instagram.com/_funkydiabetic?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 

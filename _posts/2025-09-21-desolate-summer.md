@@ -7,7 +7,7 @@ published: true
 ---
 
 <figure>
-  <img alt="Picture of some leaves in dark water" src="{{ "/assets/images/debris-in-the-harbor.jpg" | relative_url }}" />
+  <img alt="Picture of some leaves in dark water" src="{{ "/assets/images/debris-in-the-harbor.jpeg" | relative_url }}" />
   <figcaption>
     East River, Autumn
   </figcaption>
