@@ -69,6 +69,10 @@ title: Stuff I Make
 
 [[2025-09-21] Desolate Summer]({{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %})
 
+<br>
+
+[[2025-09-29] October and Other Immortal Things Born Tomorrow]({{ site.baseurl }}{% post_url 2025-09-29-october %})
+
 <br><br>
 
 <!-- For navigation from sidebar -->
