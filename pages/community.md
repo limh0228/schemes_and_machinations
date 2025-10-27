@@ -39,7 +39,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <!-- For navigation from sidebar -->
 <div id="music"></div>
 
-<h2 class = "section-header">All the Beautiful Music We Make</h2>
+<h2 class = "section-header">Music We Make</h2>
 
 Music by friends. Feel free to add your own stuff to the playlist!
 
@@ -61,7 +61,7 @@ Getting involved with these groups helps me practically embody progressive socia
 
 - [North Brooklyn Mutual Aid Group](https://northbrooklynmutualaid.org/Community-Initiatives): Decentralized community initiatives for Williamsburg/Greenpoint, neighbor to neighbor. I work on the community fridges which provide access to food freely given and free to take, neighbor to neighbor.
 
-- [8ball Artist Collective](https://8ballcommunity.club/): Decentralized, volunteer-run artist collective for artists by artists. They provide free materials, space (at 1 E. Broadway), and community for all to make, sell, learn and love art. I work on the zine archive which preserves zines as artifacts of independent creation.
+- [8 Ball Artist Collective](https://8ballcommunity.club/): Anarchist, volunteer-run, anti-capitalist artist collective for artists by artists. They provide free materials, space (at 1 E. Broadway), and community for all to make, sell, learn and love art. I work on zines, radio, and publishing.
 
 <br>
 

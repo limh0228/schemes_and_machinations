@@ -6,8 +6,7 @@ date: 2025-05-29
 ---
 
 #### Extra, Extra, Get Your Analog Zines!
-1. Anonymously donate any amount, even one dollar, to the program of my choice: [The University District Food Bank](https://mtyc.co/31n1uf)
-2. Then fill out  <a href="{{ "/pages/zine_jotform.html" | relative_url }}">this form</a> to request a zine.
+1. Fill out  <a href="{{ "/pages/zine_jotform.html" | relative_url }}">this form</a> to request a zine.
 3. I will mail you whichever one is currently in print! Currently, that is <a href="{{ "/assets/images/zines/Issue 4.pdf" | relative_url }}">Issue 4: Threat of Desire</a> 
 
 <br>

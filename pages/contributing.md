@@ -13,6 +13,7 @@ title: Contribute to my Blog!
 2. Find more of Sarah's writing on [Substack](https://substack.com/@swangxswang)
 3. Find more of Kyle's art at [his website](https://gooeyfunction.neocities.org/)
 4. Find more of Lewis's photography [here](https://www.instagram.com/_funkydiabetic?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+5. Find more of Christian's music [here](https://open.spotify.com/artist/3dLfSKXBaUx8aRuMNe1jtq?si=fzPCIeOFTUSLOht2bBm2TA)
 
 #### Open Source Site Credits
 1. Open source site code from [Hitchens theme](https://jekyllthemes.io/theme/hitchens) uses an MIT license which can be found [here](https://github.com/limh0228/schemes_and_machinations/blob/main/HITCHENS_THEME_LICENSE.txt)
