@@ -39,3 +39,10 @@
 .my_content a:hover {
   background: $highlight;
 }
+
+.my_content .image-links{
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+  max-width: 25em;
+}
