@@ -18,6 +18,15 @@ For example, at the corner shrine at Ishita’s house, Ishita’s mother shows m
 
 <br>
 
+<figure>
+  <img alt="Krishna at his temple in Ishita's family home in New Jersey" src="{{ "/assets/images/ishita-krishna-shrine.jpg" | relative_url }}" />
+  <figcaption>
+    Krishna at his temple in Ishita's family home in New Jersey
+  </figcaption>
+</figure>
+
+<br>
+
 With the same care, I make dinner for my two roommates: Ishita and Leighann, sister gods of their limited domain in our apartment. In my imagination, our house is the temple served by a younger, weaker human fellow (me), more prone to forgetting to wash my dishes or eating my food before it rots in the fridge. They lovingly forgive these sins and make a chore chart to guide my worship. I clean the floors with a rag on my knees, working across the kitchen in little bows of effort. Bow, push, clean, scoot. Again. 
 
 <br>
