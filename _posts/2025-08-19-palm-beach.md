@@ -61,3 +61,14 @@ the sensuous sands, the New York City of southern Florida, if you will:
 <br>
 
 Palm Beach. 
+
+<br>
+<br>
+
+<blockquote>
+  <p>This poem was originally printed as a part of <a href="{{ "/assets/images/zines/Billionaires zine.pdf" | relative_url }}">Billionaires Hate NY, an 8 Ball Community Zine</a>! </p>
+</blockquote>
+
+ 
+
+ 

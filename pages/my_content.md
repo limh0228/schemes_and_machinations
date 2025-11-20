@@ -9,22 +9,27 @@ title: Stuff I Make
 <h2 class = "section-header">⋆˚୨୧˚ Essays ˚୨୧˚⋆</h2>
 
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
-1. [2025-02-16] [On Consumption]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
+[1. [2025-02-16] [On Consumption]]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
 
 <div class = "image-links">
     <a href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
         <img style ="min-width: 100%" alt="Dogwood trees at Greenlake" src="{{ "/assets/images/me.jpeg" | relative_url }}" />
-        <p style="margin-left: 20px;">1. [2024-06-10] A Long Season of Color (Seattle in June)</p>
+        <p style="margin-left: 20px;">2. [2024-06-10] A Long Season of Color (Seattle in June)</p>
         <figcaption style="margin-left: 20px;text-align: left;">
             Artistic credit: Jessie Li
         </figcaption>
     </a>
 </div>
 
-2. [2025-06-08] [Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
-3. [2025-07-18] [Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
-4. [2025-07-25] [Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
-5. [2025-08-30] [Interview with a Weaver]({{ site.baseurl }}{% post_url 2025-08-22-weaver %})
+[3. [2025-06-08] Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
+
+[4. [2025-07-18] Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
+
+[5. [2025-07-25] Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
+
+[6. [2025-08-30] Interview with a Weaver]({{ site.baseurl }}{% post_url 2025-08-22-weaver %})
+
+[7. [2025-11-09] Regarding God, Love, and Administrative Work]({{ site.baseurl }}{% post_url 2025-11-09-8ball-lovers-zine %})
 
 <br><br>
 
