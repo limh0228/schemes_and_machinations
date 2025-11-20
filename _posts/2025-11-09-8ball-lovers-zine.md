@@ -36,6 +36,9 @@ Ishita is messy too: a funny little slob-god. Ishita explained to me once that s
 <br>
 
 One day, wanting to know the texture of Leighann’s hair, I ran my fingers through it at the base near the heat of her skull. I was a little surprised she allowed me to do this, and it reminded me of when I realized for the first time that those little wafers we ate in church were the body of Christ. How he loved us, to let us trespass His intimacies so.
+
+<br>
+
 At first, I thought 8 Ball was a god too. I could not understand any other reason for such a bright group of people to be allegiant to a wailing spirit, by all means appearing to draw its life force from their very own blood. By the time I had joined, the organization had lost grip of its own inertia, and seemed to me, prepared to crumble at the loss of any single significant member. They did not write anything down! They did not double up their critical domain knowledge. It was a severely understaffed shamble of inconsistent systems skating hot on the fuel of pure affection. The best were burning out, and the worst, I think were already gone. The first admin meeting I went to was a financial crisis meeting. Very somber. Very long. They seemed to blink in slow motion.
 
 <br>
