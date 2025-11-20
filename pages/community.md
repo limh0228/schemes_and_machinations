@@ -52,7 +52,17 @@ Music by friends. Feel free to add your own stuff to the playlist!
 - [If You're Not Real](https://open.spotify.com/track/6xRcaSx33h5iUxZxWYFvl4?si=bde0cd76533247f6) by Trevor Forrest
 - [Sophia's Dream](https://open.spotify.com/track/5B5nh7Z79erOVflrDXxOj6?si=305703411a6d4067) by Nando Zalez
 - [Nothing Goes as Planned](https://lamarrfv.net/home) by Lamarr Family Values
+
 <br> 
+
+<!-- For navigation from sidebar -->
+<div id="misc"></div>
+
+<h2 class = "section-header">Misc Contributions</h2>
+
+- [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
+- [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
+
 
 <!-- For navigation from sidebar -->
 <div id="groups"></div>
@@ -70,13 +80,6 @@ Getting involved with these groups helps me practically embody progressive socia
 
 <br>
 
-<!-- For navigation from sidebar -->
-<div id="misc"></div>
-
-<h2 class = "section-header">Misc Contributions</h2>
-
-- [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
-- [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
 
 
 
