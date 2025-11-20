@@ -45,8 +45,13 @@ Music by friends. Feel free to add your own stuff to the playlist!
 
 <br>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2wfZD2hWFIMa9QIOv4Xobh?utm_source=generator&theme=0" width="100%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+- [Sunshine Bright](https://christiancail.bandcamp.com/track/sunshine-bright) by American Seraphim
+- [Flowers](https://open.spotify.com/track/3ymoICPDNSxHydjDebmmlC?si=10f025b9db1b4cc9) by the spaceclerks and JUNO WAV
+- [Call me next time!](https://www.youtube.com/watch?v=WgaMWnDt5g0) by Cams
+- [Bach and it's completely different but also still bach](https://www.boomplay.com/albums/104318102) by Moonbase
+- [If You're Not Real](https://open.spotify.com/track/6xRcaSx33h5iUxZxWYFvl4?si=bde0cd76533247f6) by Trevor Forrest
+- [Sophia's Dream](https://open.spotify.com/track/5B5nh7Z79erOVflrDXxOj6?si=305703411a6d4067) by Nando Zalez
+- [Nothing Goes as Planned](https://lamarrfv.net/home) by Lamarr Family Values
 <br> 
 
 <!-- For navigation from sidebar -->
