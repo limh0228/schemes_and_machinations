@@ -3,7 +3,7 @@ layout: post
 title: Contribute to my Blog!
 ---
 #### Who me? Yeah, you!
-- You are always welcome to email me about contributions: Lim.Hannah0228@gmail.com
+- You are always welcome to email me about contributions: Lim.Hannah0228(at)gmail.com
 - Learn how to contribute your art on my [Github](https://github.com/limh0228/schemes_and_machinations/blob/main/CONTRIBUTING.md), where this website's source code is hosted! 
 - Poems, music, photos, recipes, everything is welcome. Programming contributions are also welcome. Fix bugs, add buttons, help me make it nice.
 - Suggest edits to me by filling out the form [here](https://form.jotform.com/251594028615055) or by filing a bug [here](https://form.jotform.com/251594028615055)

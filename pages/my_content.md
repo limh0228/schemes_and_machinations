@@ -31,6 +31,8 @@ title: Stuff I Make
 
 [7. [2025-11-09] Regarding God, Love, and Administrative Work]({{ site.baseurl }}{% post_url 2025-11-09-8ball-lovers-zine %})
 
+[8. [2025-11-20] Things I Hate]({{ site.baseurl }}{% post_url 2025-11-20-things-i-hate %})
+
 <br><br>
 
 <!-- For navigation from sidebar -->
