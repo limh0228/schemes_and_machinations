@@ -62,6 +62,7 @@ Music by friends. Feel free to add your own stuff to the playlist!
 
 - [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
 - [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
+- [2025-11-24] [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
 
 
 <!-- For navigation from sidebar -->
