@@ -23,11 +23,8 @@ At the end of the night, we packed the leftover food to take it to the community
 <br>
 
 
-
 #### Recipe Notes
 - D, regarding the japchae: "I basically followed [the recipe i linked on the sheet](https://thewoksoflife.com/japchae/#recipe), just without the steak and i forgot the toasted sesame seeds, and i used gluten-free soy sauce"
 - E gave away their roast veggies on the train ride there so we did not get to taste it.
-- G's 8 Ball Space Rice Cooker Rice Recipe:
-    - 1:2 white rice:water
-    - "Put it all in the rice cooker until someone comes in to the kitchenette and asks you if you washed the rice and you say no. They respond, “some people would say that step is of vital importance.” In lieu of a fine strainer you take the first batch of water and kind of swish the rice around and strain it out by hand to the best of your ability. At this point you add salt and the necessary amount of water back in. Turn on the rice cooker until it’s done."
+- G's 8 Ball Space Rice Cooker Rice Recipe: 1:2 white rice:water. "Put it all in the rice cooker until someone comes in to the kitchenette and asks you if you washed the rice and you say no. They respond, “some people would say that step is of vital importance.” In lieu of a fine strainer you take the first batch of water and kind of swish the rice around and strain it out by hand to the best of your ability. At this point you add salt and the necessary amount of water back in. Turn on the rice cooker until it’s done."
 - My stew was adapted from a Viet steamed ginger chicken recipe. Ginger is the key ingredient, but I also added mushrooms, tofu, miso, soy sauce, peppers sliced thin, vegetable bullion, and a splash of black vinegar on Ishita's insistence.
