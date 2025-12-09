@@ -23,6 +23,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 - [2025-05-09] [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
 - [2025-06-07] [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
 - [2025-06-09] [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
+- [2025-12-08] [ultra clear sanity by Daniel Um]({{ site.baseurl }}{% post_url 2025-12-08-daniel-ultra-clear-sanity %})
 
 <br> 
 

@@ -16,7 +16,6 @@ title: Stuff I Make
         <img style ="min-width: 100%" alt="Dogwood trees at Greenlake" src="{{ "/assets/images/me.jpeg" | relative_url }}" />
         <p style="margin-left: 20px;">2. [2024-06-10] A Long Season of Color (Seattle in June)</p>
         <figcaption style="margin-left: 20px;text-align: left;">
-            Artistic credit: Jessie Li
         </figcaption>
     </a>
 </div>
