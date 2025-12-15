@@ -96,10 +96,6 @@ title: Stuff I Make
 <div id="music"></div>
 
 <h2 class = "section-header">⊹₊⋆ Music ⋆₊⊹</h2>
-[Add new music to my Spotify reading list! What if you know my new favorite song? :3](https://open.spotify.com/playlist/0fHigJTn4T8SgHTdpGVBH7?si=a793b6ec2fb94b43&pt=f227ee9720ca0752505ba2552ebb24fa)
-
-<br>
-
 1. [2025-01-30] [Sea Monster](https://open.spotify.com/track/1lznaFgHdCmHz19kCeWGkh?si=13556f2cfea84f70)
 2. [2025-02-20] [Let Us Believe in the Dawn of the Cold Season](https://open.spotify.com/track/4iqzp9Esfsqz42zGjbLKjO?si=0e4963af089c4a53)
 3. [2025-06-11] [Our Dreams Are Simple, You and Me](https://open.spotify.com/track/0ugmPrrcBomTSwFMkVm0Mm?si=eb785944c30f4ecb)
