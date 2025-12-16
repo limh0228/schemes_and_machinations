@@ -1,9 +1,13 @@
-# CONTRIBUTING
+# CONTRIBUTE TO MY BLOG!
 
 ## Contributing Content
 This website is a community project! Please contribute!!! Please please please please ple
 
-if you'd like to help me build it, I'd be extremely grateful. You can use the below guidelines to contribute. 
+- Poems, music, photos, recipes, everything is welcome. 
+- Programming contributions are also welcome. Fix bugs, add buttons, help me make it nice.
+- Suggest edits to me by filing an issue
+
+If you'd like to help me build it, I'd be extremely grateful. You can use the below guidelines to contribute. 
 
 ## Writing a Post
 To contribute writing on a post, such as [this](_posts/2025-05-09-rebecca.md)
