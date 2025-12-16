@@ -32,6 +32,8 @@ title: Stuff I Make
 
 [8. [2025-11-20] Things I Hate]({{ site.baseurl }}{% post_url 2025-11-20-things-i-hate %})
 
+[9. [2025-12-15] The Problem with the Left and the Protest Novel I Don't Want to Write]({{ site.baseurl }}{% post_url 2025-12-15-protest-novel %})
+
 <br><br>
 
 <!-- For navigation from sidebar -->
