@@ -42,10 +42,6 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <h2 class = "section-header">Music We Make</h2>
 
-Music by friends. Feel free to add your own stuff to the playlist!
-
-<br>
-
 - [Sunshine Bright](https://christiancail.bandcamp.com/track/sunshine-bright) by American Seraphim
 - [Flowers](https://open.spotify.com/track/3ymoICPDNSxHydjDebmmlC?si=10f025b9db1b4cc9) by the spaceclerks and JUNO WAV
 - [Call me next time!](https://www.youtube.com/watch?v=WgaMWnDt5g0) by Cams
@@ -64,7 +60,7 @@ Music by friends. Feel free to add your own stuff to the playlist!
 - [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
 - [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
 - [2025-11-24] [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
-- [2025-12-16] [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
+- [2025-12-15] [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
 
 
 <!-- For navigation from sidebar -->
