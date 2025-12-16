@@ -28,7 +28,7 @@ She had something useful, which was the acute desire for a loving existence. But
 
 <br>
 
-The leftist urge (of which I am also guilty) to immediately turn against any body suspected of moral infraction is the same sentimental panic of which Baldwin accuses Harriet Beacher Stowe, and though we feel that we are protected in the aegis of "moral high ground", the ledge of that ground is inevitably unstable as sandstone, and self-consuming. Not in the way of the Ouroboros, but in the way of a fire whose life is always, always finite. As Baldwin observes, it is the exact same witch-panic driven by some belief in a compelte system of rights, wrongs, punishment, rewards, and singular, pure "truths" that invented the Christian God in the first place. These kinds of leftists are usually atheists or agnostics, and I wonder if that is why they keep inventing religion. They don't notice how close they are getting to holy war. The total irony escapes them.
+The leftist urge (of which I am also guilty) to immediately turn against any body suspected of moral infraction is the same sentimental panic of which Baldwin accuses Harriet Beacher Stowe, and though we feel that we are protected in the aegis of "moral high ground", the ledge of that ground is inevitably unstable as sandstone, and self-consuming. Not in the way of the Ouroboros, but in the way of a fire whose life is always, always finite. As Baldwin observes, it is the exact same witch-panic driven by some belief in a complete system of rights, wrongs, punishment, rewards, and singular, pure "truths" that invented the Christian God in the first place. These kinds of leftists are usually atheists or agnostics, and I wonder if that is why they keep inventing religion. They don't notice how close they are getting to holy war. The total irony escapes them.
 
 <br>
 
@@ -44,7 +44,7 @@ The system of labor exploitation begets the union, whose corruption itself beget
 
 <br>
 
-So, what am I trying to say? What am I trying to say in my protest novel? I don't redact the beatings because I pity my father's de-humanization; I'm worried that some part of me believes he deserves it. A father is a kind of destiny, and as I right this damn book, I am tight-rope crawling between avoidance and fulfillment of that destiny. Descendant from the Greeks, our literary tradition can tell you where this ends. 
+So, what am I trying to say? What am I trying to say in my protest novel? I don't redact the beatings because I pity my father's de-humanization; I'm worried that some part of me believes he deserves it. A father is a kind of destiny, and as I write this damn book, I am tight-rope crawling between avoidance and fulfillment of that destiny. Descendant from the Greeks, our literary tradition can tell you where this ends. 
 
 <br>
 
