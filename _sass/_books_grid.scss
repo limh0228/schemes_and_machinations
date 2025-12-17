@@ -1,0 +1,47 @@
+.book-grid main {
+    display: inline-block;
+    gap: 1em;
+}
+
+.track, .year {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(171, 255, 53);
+    word-wrap: break-word;
+    margin: 10px;
+}
+
+mark {
+  background-color: HotPink;
+}
+
+
+.book-grid .track {
+    vertical-align: top;
+    position: relative;
+    color: inherit;
+    text-decoration: none;
+    transition: box-shadow 1s;
+}
+
+.book-grid .track img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+    z-index: -1;
+    margin: 0;
+}
+
+.book-grid div.year {
+    border: 1px dashed rgb(171, 255, 53);
+}
+
+.book-grid .track, .year span {
+    position: relative;
+    font-size: 0.75em;
+    // background: $brand-color-dark;
+}
