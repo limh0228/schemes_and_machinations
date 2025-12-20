@@ -92,6 +92,8 @@ title: Stuff I Make
 
 [9. [2025-09-29] October and Other Immortal Things Born Tomorrow]({{ site.baseurl }}{% post_url 2025-09-29-october %})
 
+[10. [2025-12-17] A sip of coffee]({{ site.baseurl }}{% post_url 2025-12-17-coffee %})
+
 <br><br>
 
 <!-- For navigation from sidebar -->
