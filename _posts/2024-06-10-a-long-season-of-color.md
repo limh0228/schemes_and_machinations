@@ -4,10 +4,11 @@ title: "A Long Season of Color (Seattle in June)"
 author: "Hannah Lim"
 date: 2024-06-10
 ---
+
 <figure>
-  <img alt="Dogwood tree, nearing the end of its bloom" src="{{ "/assets/images/dogwoods-in-bloom.jpeg" | relative_url }}" />
+  <img alt="Illustration or flowers, a woman with tears" src="{{ "/assets/images/jessie/a-long-season-of-color.png" | relative_url }}" />
   <figcaption>
-    Dogwood tree, nearing the end of its bloom, somewhere in Wallingford
+    Artistic credit: Jessie Li
   </figcaption>
 </figure>
 
@@ -98,3 +99,10 @@ then she forges on.
 She does not look back at me a single time. 
 
 I am left watching the dogwood blossoms gradually fade to pink.
+
+<figure>
+  <img alt="Dogwood tree, nearing the end of its bloom" src="{{ "/assets/images/dogwoods-in-bloom.jpeg" | relative_url }}" />
+  <figcaption>
+    Dogwood tree, nearing the end of its bloom, somewhere in Wallingford
+  </figcaption>
+</figure>

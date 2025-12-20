@@ -5,6 +5,13 @@ author: "Hannah Lim"
 date: 2024-11-17
 ---
 
+<figure>
+  <img alt="Illustration of three chairs" src="{{ "/assets/images/jessie/a-modest-room.png" | relative_url }}" />
+  <figcaption>
+    Artistic credit: Jessie Li
+  </figcaption>
+</figure>
+
 In my mother’s backyard
 in the Californian October,
 there is only one spot of shade that is protected all day.

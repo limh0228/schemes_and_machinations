@@ -8,6 +8,13 @@ published: true
 
 #### A poetic response to "Sailing to Byzantium" By William Butler Yeats
 
+<figure>
+  <img alt="Illustration of a grecian urn by John Keats" src="{{ "/assets/images/john-keats-grecian-urn-full.jpg" | relative_url }}" />
+  <figcaption>
+    Grecian urn by John Keats (this poem is also a banger)
+  </figcaption>
+</figure>
+
 I.
 
 <br>
