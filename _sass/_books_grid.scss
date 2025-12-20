@@ -5,8 +5,8 @@
 
 .track, .year {
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     border: 2px solid rgb(171, 255, 53);
     word-wrap: break-word;
     margin: 10px;
@@ -14,6 +14,7 @@
 
 mark {
   background-color: HotPink;
+  color: $brand-color-dark;
 }
 
 
