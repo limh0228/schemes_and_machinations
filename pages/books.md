@@ -4,7 +4,7 @@ layout: default_with_menu
 
 <header>
     <h1>This is what I'm ingesting and digesting lately</h1>
-    <p><mark>These are selections of art (writing, music, movies) that really affected me. Linked are reviews (by me, by others), tertiary works, selected pieces, readings, or links to the artist's other work -- whatever I thought you might like. Feel free to add to my reading list!</mark></p>
+    <p><mark>These are selections of art (writing, music, movies) that really affected me. Linked are reviews (by me, by others), tertiary works (related or inspired), pirated copies, selected pieces, readings, or links to the artist's other work -- whatever I thought you might like. Feel free to add to my reading list!</mark></p>
 
     <br><br>
 </header>
@@ -69,11 +69,30 @@ layout: default_with_menu
         <img src="{{ "/assets/images/books/NoNameInTheStreet.png" | relative_url }}">
         <span class="title"><mark>No Name in the Street by James Baldwin</mark></span>
     </a>
+    <a class="track" href="https://www.abdurraqib.com/">
+        <img src="{{ "/assets/images/books/theres-always-this-year.png" | relative_url }}">
+        <span class="title"><mark>There's Always This Year by Hanif Abdurraqib</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-19-bluest-eye %}">
         <img src="{{ "/assets/images/books/bluest-eye.png" | relative_url }}">
         <span class="title"><mark>The Bluest Eye by Toni Morrison</mark></span>
     </a>
     <div class="year">2025</div>
+    <a class="track" href="https://docs.google.com/spreadsheets/d/1A9CmSul-JL8fTGX0ETjeAhp_oRDHy_IeBwWAhUewu0Y/edit?usp=sharing">
+        <img src="{{ "/assets/images/books/they-cant-kill-us.png" | relative_url }}">
+        <span class="title"><mark>They Can't Kill Us Until They Kill Us by Hanif Abdurraqib</mark></span>
+    </a>
+    <a class="track" href="/assets/images/books/grief1.png">
+        <img src="{{ "/assets/images/books/welty.png" | relative_url }}">
+        <span class="title"><mark>The Optimist's Daughter</mark>
+        <br><mark>by Eudora</mark>
+        <br><mark>Welty</mark></span>
+    </a>
+    <a class="track" href="/assets/images/books/grief2.png">
+        <img src="{{ "/assets/images/books/grief2.png" | relative_url }}">
+        <span class="title"><mark>The Year Of Magical Thinking by Joan Didion</mark></span>
+    </a>
+    <div class="year">2024</div>
 </main>
 
 

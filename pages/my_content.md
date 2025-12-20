@@ -11,15 +11,6 @@ title: Stuff I Make
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
 [1. [2025-02-16] [On Consumption]]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
 
-<div class = "image-links">
-    <a href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
-        <img style ="min-width: 100%" alt="Dogwood trees at Greenlake" src="{{ "/assets/images/me.jpeg" | relative_url }}" />
-        <p style="margin-left: 20px;">2. [2024-06-10] A Long Season of Color (Seattle in June)</p>
-        <figcaption style="margin-left: 20px;text-align: left;">
-        </figcaption>
-    </a>
-</div>
-
 [3. [2025-06-08] Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
 
 [4. [2025-07-18] Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
@@ -41,58 +32,51 @@ title: Stuff I Make
 
 <h2 class = "section-header">⭒❀˚ Poetry °❀ೃ࿔</h2>
 
-<div class = "image-links">
-    <a href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
-        <img style ="min-width: 100%" alt="Illustration or flowers, a woman with tears" src="{{ "/assets/images/jessie/a-long-season-of-color.png" | relative_url }}" />
-        <p style="margin-left: 20px;">1. [2024-06-10] A Long Season of Color (Seattle in June)</p>
-        <figcaption style="margin-left: 20px;text-align: left;">
-            Artistic credit: Jessie Li
-        </figcaption>
+<div class="book-grid">
+    <div class="year">2026</div>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-17-coffee %}">
+        <img src="{{ "/assets/images/toes.jpg" | relative_url }}">
+        <span class="title"><mark>A sip of coffee</mark></span>
     </a>
-</div>
-
-<div class = "image-links">
-    <a href="{{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %}">
-        <img alt="Illustration of three chairs" src="{{ "/assets/images/jessie/a-modest-room.png" | relative_url }}" />
-        <p style="margin-left: 20px;">2. [2024-11-17] A Modest Room (San Jose in October)</p>
-        <figcaption style="margin-left: 20px;text-align: left;">
-            Artistic credit: Jessie Li
-        </figcaption>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-09-29-october %}">
+        <img src="{{ "/assets/images/horse.jpg" | relative_url }}">
+        <span class="title"><mark>October and Other Immortal Things Born Tomorrow</mark></span>
     </a>
-</div>
-
-<div class = "image-links">
-    <a href="{{ site.baseurl }}{% post_url 2024-12-27-sisters %}">
-        <img alt="Photo of my sister" src="{{ "/assets/images/juhee.jpeg" | relative_url }}" />
-        <p style="margin-left: 20px;">3. [2024-12-27] Sisters</p>
-        <figcaption style="margin-left: 20px;text-align: left;">
-            Juhee, Jeju ferry to Udo
-        </figcaption>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %}">
+        <img src="{{ "/assets/images/Raw_egg.jpg" | relative_url }}">
+        <span class="title"><mark>Desolate Summer</mark></span>
     </a>
-</div>
-
-<div class = "image-links">
-    <a href="{{ site.baseurl }}{% post_url 2025-06-25-heat-death %}">
-        <img alt="Illustration of person holding a star" src="{{ "/assets/images/jessie/heat-death.png" | relative_url }}" />
-        <p style="margin-left: 20px;">4. [2025-06-25] On heat death / sleeping next to you</p>
-        <figcaption style="margin-left: 20px;text-align: left;">
-            Artistic credit: Jessie Li
-        </figcaption>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-09-01-byzantium %}">
+        <img src="{{ "/assets/images/john-keats-grecian-urn3.png" | relative_url }}">
+        <span class="title"><mark>Do not sail to Byzantium</mark></span>
     </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-08-19-palm-beach %}">
+        <img src="{{ "/assets/images/beach.jpeg" | relative_url }}">
+        <span class="title"><mark>"I don’t want to lose more people to Palm Beach"</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %}">
+        <img src="{{ "/assets/images/private-idaho.png" | relative_url }}">
+        <span class="title"><mark>Too much dreams</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2025-06-25-heat-death %}">
+        <img src="{{ "/assets/images/jessie/heat-death.png" | relative_url }}">
+        <span class="title"><mark>On heat death</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2024-12-27-sisters %}">
+        <img src="{{ "/assets/images/juhee.jpeg" | relative_url }}">
+        <span class="title"><mark>Sisters</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2024-11-17-a-modest-room %}">
+        <img src="{{ "/assets/images/chairs-square.png" | relative_url }}">
+        <span class="title"><mark>A Modest Room</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2024-06-10-a-long-season-of-color %}">
+        <img src="{{ "/assets/images/me.jpeg" | relative_url }}">
+        <span class="title"><mark>A Long Season of Color</mark></span>
+    </a>
+    <div class="year">2025</div>
+
 </div>
-
-
-[5. [2025-08-07] Too much dreams]({{ site.baseurl }}{% post_url 2025-08-07-everything-is-you %})
-
-[6. [2025-08-19] "I don’t want to lose more people to Palm Beach"]({{ site.baseurl }}{% post_url 2025-08-19-palm-beach %})
-
-[7. [2025-09-01] Do not sail to Byzantium]({{ site.baseurl }}{% post_url 2025-09-01-byzantium %})
-
-[8. [2025-09-21] Desolate Summer]({{ site.baseurl }}{% post_url 2025-09-21-desolate-summer %})
-
-[9. [2025-09-29] October and Other Immortal Things Born Tomorrow]({{ site.baseurl }}{% post_url 2025-09-29-october %})
-
-[10. [2025-12-17] A sip of coffee]({{ site.baseurl }}{% post_url 2025-12-17-coffee %})
 
 <br><br>
 
