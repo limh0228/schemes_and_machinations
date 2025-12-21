@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Review of No one belongs here more than you by Miranda July"
+title: "A Review of No One Belongs Here More Than You by Miranda July"
 author: "Hannah Lim"
 date: 2025-12-18
 published: true
@@ -17,7 +17,7 @@ I read "No one belongs here more than you" by Miranda July over four or five dif
 
 <br>
 
-Bleaching your hair involves a lot of waiting around, which seems a bit archaic to me given that we have now invented bluetooth and real-time language translation and mass surveillance technology. You're telling me Palantir can tell me the name and address of any person on Earth based on a side profile of their face, but it still takes four hours to cure my hair? 
+Bleaching your hair involves a lot of waiting around, which seems a bit archaic to me given that we have now invented bluetooth and real-time language translation and mass surveillance technology. You're telling me Palantir can tell me the name and address of any person on Earth based on a side profile of their face, but it still takes four hours to cure my hair? One is always confronted with such absurdity at a hair salon, and the story collection, therefore, is a fantastic companion!
 
 <br>
 
@@ -25,8 +25,16 @@ The scale of our own power is completely incomprehensible now. In all our ambiti
 
 <br>
 
-Besides the vast amounts of waiting around, I also read in the salon chair because I don't know what else to do when she shampoos my hair. It's an odd thing, washing my hair. No one other than me has done it since I was a child. Before Limi, the hairdresser, the only other person who ever washed my hair was my mother. Limi warms up the water for me, and her touch is gentle, but efficient. Near the end, she always reaches into the cup of my ear and rinses out the soap there too. I'm ticklish, and she apologizes affectionately when I predictably crinkle my neck. It's a kind of dance we've worked out. But as with dancing, I never know where to look. I never know what to do with my hands. Sometimes, she takes me by the nape of my neck to rinse the soap hidden between my head and the basin. The back of my head is quite flat, and I wonder if she can sense the neglect my parents showed me as an infant. If she does, she mercifully does not mention any of this to me, and simply continues to conditioner. I'm not sure it could get any more intimate if I knelt down beside the soap basin and spread her cheeks to eat her ass.
+Besides the vast amounts of waiting around, I also read in the salon chair because I don't know what else to do when she shampoos my hair. It's an odd thing, washing my hair. No one other than me has done it since I was a child. Before Limi, the hairdresser, the only other person who ever washed my hair was my mother. 
 
 <br>
 
-Every single character in this book is lonely -- achingly, piercingly, terrifyingly lonely. They are casually tragic in that way that everyone is, if you can get them to tell you the right story about themselves. Overall, excellent conversation buffer for the strange intimacy one encounters at a modern hair salon. I stopped bleaching my hair, and now no one will wash it but me. I would love to read more by this author. 10/10, recommend.
+Limi warms up the water for me, and lays me back slowly so that I don't sit on my cape. She adjusts my neck and asks me if I'm comfortable. I say "yes" regardless of the question (this is true of most questions in life). Her touch is gentle, but efficient. In her hands, time seems to pass in very good manner exactly as fast as it aught to. This seems to speak to some virtue of her professionalism which projects an air that is neither in an indecent rush, nor luxuriating unduly. The back of my head is quite flat, and I wonder if she can sense the neglect my parents showed me as an infant. If she does, she mercifully does not mention any of this to me, and simply continues onto conditioner. 
+
+<br>
+
+Near the end, she always reaches into the cup of my ear and rinses out the soap that has gotten stuck there. I'm ticklish, and she apologizes affectionately when I predictably crinkle my neck. It's a kind of dance we've worked out. But as with dancing, I never know where to look. I never know what to do with my hands. Sometimes, she takes me by the nape of my neck to rinse the soap hidden between my head and the basin. I'm not sure it could get any more intimate if I knelt down beside the soap basin and spread her cheeks to eat her ass.
+
+<br>
+
+Every single character in this story collection is lonely -- achingly, piercingly, terrifyingly lonely. They are casually tragic in that way that everyone is, if you can get them to tell you the right story about themselves. I stopped bleaching my hair, and now no one will wash it but me. I would love to read more by this author. 10/10, recommend.

@@ -9,21 +9,26 @@ title: Stuff I Make
 <h2 class = "section-header">⋆˚୨୧˚ Essays ˚୨୧˚⋆</h2>
 
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
-[1. [2025-02-16] [On Consumption]]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
+[1. [2025-02-16] On Consumption]({{ site.baseurl }}{% post_url 2025-02-16-on-consumption %})
 
-[3. [2025-06-08] Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
+[2. [2025-06-08] Blog Manifesto]({{ site.baseurl }}{% post_url 2025-06-08-blog-manifesto %})
 
-[4. [2025-07-18] Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
+[3. [2025-07-18] Before and After August]({{ site.baseurl }}{% post_url 2025-07-18-august %})
 
-[5. [2025-07-25] Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
+[4. [2025-07-25] Tuyo in Korean: Notes on Translation]({{ site.baseurl }}{% post_url 2025-07-25-tuyo %})
 
-[6. [2025-08-30] Interview with a Weaver]({{ site.baseurl }}{% post_url 2025-08-22-weaver %})
+[5. [2025-08-30] Interview with a Weaver]({{ site.baseurl }}{% post_url 2025-08-22-weaver %})
 
-[7. [2025-11-09] Regarding God, Love, and Administrative Work]({{ site.baseurl }}{% post_url 2025-11-09-8ball-lovers-zine %})
+[6. [2025-11-09] Regarding God, Love, and Administrative Work]({{ site.baseurl }}{% post_url 2025-11-09-8ball-lovers-zine %})
 
-[8. [2025-11-20] Things I Hate]({{ site.baseurl }}{% post_url 2025-11-20-things-i-hate %})
+[7. [2025-11-20] Things I Hate]({{ site.baseurl }}{% post_url 2025-11-20-things-i-hate %})
 
-[9. [2025-12-15] The Problem with the Left and the Protest Novel I Don't Want to Write]({{ site.baseurl }}{% post_url 2025-12-15-protest-novel %})
+[8. [2025-12-15] The Problem with the Left and the Protest Novel I Don't Want to Write]({{ site.baseurl }}{% post_url 2025-12-15-protest-novel %})
+
+[9. [2025-12-18] A Review of No One Belongs Here More Than You by Miranda July]({{ site.baseurl }}{% post_url 2025-12-18-miranda-july %})
+
+[10. [2025-12-20] A Review of The Remains of the Day by Kazuo Ishiguro]({{ site.baseurl }}{% post_url 2025-12-20-remains-of-the-day %})
+
 
 <br><br>
 
