@@ -6,7 +6,7 @@ title: Stuff I Make
 <!-- For navigation from sidebar -->
 <div id="essays"></div>
 
-<h2 class = "section-header">⋆˚୨୧˚ Essays ˚୨୧˚⋆</h2>
+<h2 class = "section-header">˚୨୧˚ Essays ˚୨୧˚</h2>
 
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
 
