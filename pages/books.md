@@ -3,7 +3,7 @@ layout: default_with_menu
 ---
 
 <header>
-    <h1>This is what I'm ingesting and digesting lately</h1>
+    <h1 style = "font-family:'STAR';">This is what I'm ingesting and digesting lately</h1>
     <p><mark>These are selections of art (writing, music, movies) that really affected me. Linked are reviews (by me, by others), tertiary works (related or inspired), pirated copies, selected excerpts, readings, or links to the artist's other work -- whatever I thought you might like. Feel free to add to my reading list!</mark></p>
 
     <br><br>

@@ -42,6 +42,10 @@ mark {
     margin: 0;
 }
 
+.book-grid a:hover {
+  background: $highlight;
+}
+
 .book-grid div.year {
     border: 1px dashed rgb(171, 255, 53);
 }
