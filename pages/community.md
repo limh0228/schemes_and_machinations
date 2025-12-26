@@ -20,10 +20,11 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <h2 class = "section-header">Poems from the Masses</h2>
 
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
-- [2025-05-09] [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
-- [2025-06-07] [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
-- [2025-06-09] [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
-- [2025-12-08] [ultra clear sanity by Daniel Um]({{ site.baseurl }}{% post_url 2025-12-08-daniel-ultra-clear-sanity %})
+- <mark>2025년 05월</mark> [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
+- <mark>2025년 06월</mark> [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
+- <mark>2025년 06월</mark> [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
+- <mark>2025년 12월</mark> [ultra clear sanity by Daniel Um]({{ site.baseurl }}{% post_url 2025-12-08-daniel-ultra-clear-sanity %})
+- <mark>2025년 12월</mark> [Ekphrasis 2 by Tomás Pacheco]({{ site.baseurl }}{% post_url 2025-12-22-tomas %})
 
 <br> 
 
@@ -32,8 +33,8 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <h2 class = "section-header">Essays from the Masses</h2>
 
-- [2025-06-28] [Strontium by Sarah Wang]({{ site.baseurl }}{% post_url 2025-06-28-strontium %})
-- [2025-08-04] [Death (Part 1) by Kyle]({{ site.baseurl }}{% post_url 2025-08-04-kyle-death %})
+- <mark>2025년 06월</mark> [Strontium by Sarah Wang]({{ site.baseurl }}{% post_url 2025-06-28-strontium %})
+- <mark>2025년 08월</mark> [Death (Part 1) by Kyle]({{ site.baseurl }}{% post_url 2025-08-04-kyle-death %})
 
 <br> 
 
@@ -57,10 +58,10 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <h2 class = "section-header">Misc Contributions</h2>
 
-- [2025-06-17] [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
-- [2025-08-30] [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
-- [2025-11-24] [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
-- [2025-12-15] [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
+- <mark>2025년 06월</mark> [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
+- <mark>2025년 08월</mark> [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
+- <mark>2025년 11월</mark> [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
+- <mark>2025년 12월</mark> [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
 
 
 <!-- For navigation from sidebar -->

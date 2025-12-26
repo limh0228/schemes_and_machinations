@@ -2,7 +2,7 @@
 layout: default_with_menu
 ---
 
-# You want a copy of my zine?
+<h1 style = "font-family:'STAR';">You want a copy of my zine?</h1>
 <br><br><br>
 
 <p>Fill out  <a href="{{ "/pages/zine_jotform.html" | relative_url }}">this form</a> to request a zine. </p>
