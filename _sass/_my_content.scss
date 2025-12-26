@@ -7,7 +7,7 @@
 .my_content {
     padding-top:    4rem;
     padding-bottom: 4rem;
-    padding: 2em;
+    padding: 1em;
 }
   
 @media (min-width: 48em) {
@@ -31,9 +31,14 @@
   text-align: center;
 }
 
+.my_content ul,ol {
+  padding-left: 2em;
+}
+
 .my_content .section-header{
   background-color: $brand-color-dark;
   padding: 0.2em;
+  font-family: "STAR";
 }
 
 .my_content a:hover {

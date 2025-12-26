@@ -17,6 +17,10 @@ layout: default_with_menu
         <span class="title"><mark>The Illiad</mark></span>
     </a>
     <div class="year">2026</div>
+     <a class="track" href="https://archive.nytimes.com/www.nytimes.com/books/99/03/28/specials/dillard-tinker.html?_r=1&oref=slogin">
+        <img src="{{ "/assets/images/books/eclipse_annie_dillard.jpeg" | relative_url }}">
+        <span class="title"><mark>The Abundance by Annie Dillard</mark></span>
+    </a>
     <a class="track" href="https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf">
         <img src="{{ "/assets/images/books/susan-sontag.png" | relative_url }}">
         <span class="title"><mark>Against Interpretation by Sustan Sontag</mark></span>
@@ -57,6 +61,10 @@ layout: default_with_menu
         <img src="{{ "/assets/images/books/the-aleph.png" | relative_url }}">
         <span class="title"><mark>The Aleph and Other Stories by Borges</mark></span>
     </a>
+    <a class="track" href="https://www.youtube.com/watch?v=4VxvmOWiYXw&list=PLZNVwWo8WbZ1i_JhGKwyYjDUxxkeLsVr2">
+        <img src="{{ "/assets/images/books/art_lown.jpg" | relative_url }}">
+        <span class="title"><mark>Piper Oz the Hound (1976) by Art Lown</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-18-miranda-july %}">
         <img src="{{ "/assets/images/books/miranda-july-stories.png" | relative_url }}">
         <span class="title"><mark>No one belongs here more than you. Stories by Miranda July</mark></span>
@@ -76,6 +84,11 @@ layout: default_with_menu
     <a class="track" href="https://www.abdurraqib.com/">
         <img src="{{ "/assets/images/books/basketball.png" | relative_url }}">
         <span class="title"><mark>There's Always This Year by Hanif Abdurraqib</mark></span>
+    </a>
+    <a class="track" href="https://www.youtube.com/watch?v=Fjufjv4rH0s&list=PLH_QLWlQVieWvZtilOW6jzVXQUQ0lbzDa">
+        <img src="{{ "/assets/images/books/mon-cherie.jpeg" | relative_url }}">
+        <span class="title"><mark>My Cherie Amour</mark><br>
+        <mark>(1969)</mark></span>
     </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-19-bluest-eye %}">
         <img src="{{ "/assets/images/books/bluest-eye.png" | relative_url }}">
@@ -130,6 +143,10 @@ layout: default_with_menu
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-09-29-october %}">
         <img src="{{ "/assets/images/horse.jpg" | relative_url }}">
         <span class="title"><mark>A Lover's Discourse by Roland Barthes</mark></span>
+    </a>
+    <a class="track" href="https://www.youtube.com/watch?v=FGZYWSfiYbM&list=PLjb5kMzP2zolSAPpMXR7_0MfYjEcDWQJO">
+        <img src="{{ "/assets/images/books/seattle-october.jpg" | relative_url }}">
+        <span class="title"><mark>Songs in the Key of Life (1976)</mark></span>
     </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-20-remains-of-the-day %}">
         <img src="{{ "/assets/images/books/remains-of-the-day.jpg" | relative_url }}">
