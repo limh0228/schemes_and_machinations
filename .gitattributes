@@ -1,2 +1,9 @@
 assets/video/dead-wife-in-the-beginning-of-the-movie.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/audio/radio/Hannahs[[:space:]]Room[[:space:]]Ep[[:space:]]1[[:space:]]-[[:space:]]Steph[[:space:]]Cooley's[[:space:]]Reel.mp3 filter=lfs diff=lfs merge=lfs -text
+Factory filter=lfs diff=lfs merge=lfs -text
+Reset.mp3 filter=lfs diff=lfs merge=lfs -text
+assets/audio/radio/Lamarr filter=lfs diff=lfs merge=lfs -text
+Family filter=lfs diff=lfs merge=lfs -text
+Values filter=lfs diff=lfs merge=lfs -text
+- filter=lfs diff=lfs merge=lfs -text
+assets/audio/radio/Lamarr[[:space:]]Family[[:space:]]Values[[:space:]]-[[:space:]]Factory[[:space:]]Reset.mp3 filter=lfs diff=lfs merge=lfs -text
