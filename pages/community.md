@@ -41,7 +41,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <!-- For navigation from sidebar -->
 <div id="music"></div>
 
-<h2 class = "section-header">Music We Make</h2>
+<h2 class = "section-header">Sounds We Make</h2>
 
 - [Sunshine Bright](https://christiancail.bandcamp.com/track/sunshine-bright) by American Seraphim
 - [Flowers](https://open.spotify.com/track/3ymoICPDNSxHydjDebmmlC?si=10f025b9db1b4cc9) by the spaceclerks and JUNO WAV
