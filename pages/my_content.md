@@ -118,11 +118,13 @@ All archived radio episodes were originally aired live at [8ballradio.nyc](https
 
 <mark>⋆Music⋆</mark>
 
+All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp.com/)
+
 <br>
-- <mark>2025년 01월</mark> [Sea Monster](https://open.spotify.com/track/1lznaFgHdCmHz19kCeWGkh?si=13556f2cfea84f70)
-- <mark>2025년 02월</mark> [Let Us Believe in the Dawn of the Cold Season](https://open.spotify.com/track/4iqzp9Esfsqz42zGjbLKjO?si=0e4963af089c4a53)
-- <mark>2025년 06월</mark> [Our Dreams Are Simple, You and Me](https://open.spotify.com/track/0ugmPrrcBomTSwFMkVm0Mm?si=eb785944c30f4ecb)
-- <mark>2025년 06월</mark> [Tuyo by Rodrigo Amarante - Korean Ver. Cover](https://open.spotify.com/track/7EPXEPWjW2EdPeX1jHY4td?si=4a0a99b535be4ee7)
+- <mark>2025년 01월</mark> [Sea Monster](https://hannahlim.bandcamp.com/track/sea-monster)
+- <mark>2025년 02월</mark> [Let Us Believe in the Dawn of the Cold Season](https://hannahlim.bandcamp.com/track/let-us-believe-in-the-dawn-of-the-cold-season)
+- <mark>2025년 06월</mark> [Our Dreams Are Simple, You and Me](https://hannahlim.bandcamp.com/album/our-dreams-are-simple-you-and-me)
+- <mark>2025년 06월</mark> [Tuyo by Rodrigo Amarante - Korean Ver. Cover](https://hannahlim.bandcamp.com/track/tuyo-korean)
 - <mark>2025년 10월</mark> [Cover of Paul McCartney's - When the Wind is Blowing]({{ site.baseurl }}{% post_url 2025-10-23-wind-is-blowing %})
 
 <br><br>
