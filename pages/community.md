@@ -61,7 +61,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
         <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
         <span class="title"><br><br><br><br><br><br><br><mark>Call me next time! by Cams</mark></span>
     </a>
-    <a class="track tall" href="https://www.boomplay.com/albums/104318102">
+    <a class="track tall" href="https://open.spotify.com/album/60CmQj8Fxn9CHRMzpeLsyY?si=gnn307j0RbqQ-Bdvd81XdA">
         <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
         <span class="title"><br><br><br><br><br><mark>Bach and it's completely different but also still bach by Moonbase</mark></span>
     </a>
@@ -76,6 +76,10 @@ You guys are really cool, and I just think it's a waste you don't know each othe
     <a class="track tall" href="https://www.youtube.com/watch?v=AStlS0_Bewk&list=RDAStlS0_Bewk&start_radio=1">
         <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
         <span class="title"><br><br><br><br><br><br><mark>If You're Not Real by Trevor Forrest</mark></span>
+    </a>
+    <a class="track tall" href="https://www.youtube.com/watch?v=jLajnP-baGk">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><br><mark>Help Me Out by Rice Rips</mark></span>
     </a>
 
 </div>
