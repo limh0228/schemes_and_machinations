@@ -17,24 +17,29 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <!-- For navigation from sidebar -->
 <div id="poems"></div>
 
-<h2 class = "section-header">Poems from the Masses</h2>
+<h2 class = "section-header">Words from the Masses</h2>
 
 <!-- Jekyll builds with version 3.0 and configured with a baseurl, need to prepend post_url or link tags with site.baseurl like below; the links will need to be updated to remove baseurl prefix once Github pages updates its Jekyll version -->
-- <mark>2025년 05월</mark> [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
-- <mark>2025년 06월</mark> [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
-- <mark>2025년 06월</mark> [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
-- <mark>2025년 12월</mark> [ultra clear sanity by Daniel Um]({{ site.baseurl }}{% post_url 2025-12-08-daniel-ultra-clear-sanity %})
-- <mark>2025년 12월</mark> [Ekphrasis 2 by Tomás Pacheco]({{ site.baseurl }}{% post_url 2025-12-22-tomas %})
 
-<br> 
+<mark>⋆2026⋆</mark>
 
-<!-- For navigation from sidebar -->
-<div id="essays"></div>
+- <mark>01월</mark> [Tarot Reading for Hannah Lim: Love 2026. by El Debattista]({{ site.baseurl }}{% post_url 2026-01-12-el-tarot %})
 
-<h2 class = "section-header">Essays from the Masses</h2>
+<br>
 
-- <mark>2025년 06월</mark> [Strontium by Sarah Wang]({{ site.baseurl }}{% post_url 2025-06-28-strontium %})
-- <mark>2025년 08월</mark> [Death (Part 1) by Kyle]({{ site.baseurl }}{% post_url 2025-08-04-kyle-death %})
+<mark>⋆2025⋆</mark>
+
+- <mark>05월</mark> [It Does Not Rain When I Cry by Rebecca Epstein]({{ site.baseurl }}{% post_url 2025-05-09-it-does-not-rain-when-i-cry %})
+- <mark>06월</mark> [The Infinite Womb by Lewis Gregerson-Spencer]({{ site.baseurl }}{% post_url 2025-06-07-the-infinite-womb %})
+- <mark>06월</mark> [Unfatigued and uncorrupted stillness - a moment frozen by Christian Cail]({{ site.baseurl }}{% post_url 2025-06-09-unfatigued-and-uncorrupted %})
+- <mark>06월</mark> [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
+- <mark>06월</mark> [Strontium by Sarah Wang]({{ site.baseurl }}{% post_url 2025-06-28-strontium %})
+- <mark>08월</mark> [Death (Part 1) by Kyle]({{ site.baseurl }}{% post_url 2025-08-04-kyle-death %})
+- <mark>08월</mark> [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
+- <mark>11월</mark> [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
+- <mark>12월</mark> [ultra clear sanity by Daniel Um]({{ site.baseurl }}{% post_url 2025-12-08-daniel-ultra-clear-sanity %})
+- <mark>12월</mark> [Ekphrasis 2 by Tomás Pacheco]({{ site.baseurl }}{% post_url 2025-12-22-tomas %})
+
 
 <br> 
 
@@ -43,26 +48,25 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <h2 class = "section-header">Sounds We Make</h2>
 
-- [Sunshine Bright](https://christiancail.bandcamp.com/track/sunshine-bright) by American Seraphim
-- [Flowers](https://open.spotify.com/track/3ymoICPDNSxHydjDebmmlC?si=10f025b9db1b4cc9) by the spaceclerks and JUNO WAV
+- [American Seraphim](https://christiancail.bandcamp.com/album/american-seraphim) by American Seraphim
+- [Flowers](https://www.youtube.com/watch?v=wiEqUUTa5ng&list=OLAK5uy_nSFmgAOICtLaOJSMBrQ2Qq62a6qVkqYZA) by the spaceclerks and JUNO WAV
 - [Call me next time!](https://www.youtube.com/watch?v=WgaMWnDt5g0) by Cams
 - [Bach and it's completely different but also still bach](https://www.boomplay.com/albums/104318102) by Moonbase
-- [If You're Not Real](https://open.spotify.com/track/6xRcaSx33h5iUxZxWYFvl4?si=bde0cd76533247f6) by Trevor Forrest
-- [Sophia's Dream](https://open.spotify.com/track/5B5nh7Z79erOVflrDXxOj6?si=305703411a6d4067) by Nando Zalez
-- [Nothing Goes as Planned](https://lamarrfv.net/home) by Lamarr Family Values
+- [If You're Not Real](https://www.youtube.com/watch?v=AStlS0_Bewk&list=RDAStlS0_Bewk&start_radio=1) by Trevor Forrest
+- [Seed Money](https://lamarrfv.bandcamp.com/album/seed-money) by Lamarr Family Values
+- [Sophia's Dream](https://www.youtube.com/watch?v=jBHiFlM6qqw&list=RDjBHiFlM6qqw&start_radio=1&pp=ygUcc29waGlhcyBkcmVhbSBieSBuYW5kbyB2YWxleqAHAQ%3D%3D) by Nando Zalez
 
 <br> 
 
 <!-- For navigation from sidebar -->
 <div id="misc"></div>
 
-<h2 class = "section-header">Misc Contributions</h2>
+<h2 class = "section-header">Images</h2>
 
-- <mark>2025년 06월</mark> [Sichuan Potatoes Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2025-06-17-szechuan-potatoes %})
-- <mark>2025년 08월</mark> [A Modest (Marriage) Proposal by Anonymous]({{ site.baseurl }}{% post_url 2025-08-30-proposal %})
-- <mark>2025년 11월</mark> [Winter Recipes from the Collective]({{ site.baseurl }}{% post_url 2025-11-24-8ball-friendsgiving %})
-- <mark>2025년 12월</mark> [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
+- <mark>12월 2025년</mark> [Creature Catalog by Alicja Sobieraj-Litwinski]({{ site.baseurl }}{% post_url 2025-12-16-creature-catalog %})
 
+
+<br>
 
 <!-- For navigation from sidebar -->
 <div id="groups"></div>
