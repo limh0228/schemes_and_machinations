@@ -48,13 +48,37 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 
 <h2 class = "section-header">Sounds We Make</h2>
 
-- [American Seraphim](https://christiancail.bandcamp.com/album/american-seraphim) by American Seraphim
-- [Flowers](https://www.youtube.com/watch?v=wiEqUUTa5ng&list=OLAK5uy_nSFmgAOICtLaOJSMBrQ2Qq62a6qVkqYZA) by the spaceclerks and JUNO WAV
-- [Call me next time!](https://www.youtube.com/watch?v=WgaMWnDt5g0) by Cams
-- [Bach and it's completely different but also still bach](https://www.boomplay.com/albums/104318102) by Moonbase
-- [If You're Not Real](https://www.youtube.com/watch?v=AStlS0_Bewk&list=RDAStlS0_Bewk&start_radio=1) by Trevor Forrest
-- [Seed Money](https://lamarrfv.bandcamp.com/album/seed-money) by Lamarr Family Values
-- [Sophia's Dream](https://www.youtube.com/watch?v=jBHiFlM6qqw&list=RDjBHiFlM6qqw&start_radio=1&pp=ygUcc29waGlhcyBkcmVhbSBieSBuYW5kbyB2YWxleqAHAQ%3D%3D) by Nando Zalez
+<div class="book-grid">
+    <a class="track tall" href="https://christiancail.bandcamp.com/album/american-seraphim">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><mark>American Seraphim by American Seraphim</mark></span>
+    </a>
+    <a class="track tall" href="https://www.youtube.com/watch?v=wiEqUUTa5ng&list=OLAK5uy_nSFmgAOICtLaOJSMBrQ2Qq62a6qVkqYZA">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><mark>Flowers by the spaceclerks and JUNO WAV</mark></span>
+    </a>
+    <a class="track tall" href="hhttps://www.youtube.com/watch?v=WgaMWnDt5g0">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><br><mark>Call me next time! by Cams</mark></span>
+    </a>
+    <a class="track tall" href="https://www.boomplay.com/albums/104318102">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><mark>Bach and it's completely different but also still bach by Moonbase</mark></span>
+    </a>
+    <a class="track tall" href="https://lamarrfv.bandcamp.com/album/seed-money">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><mark>Seed money by Lamarr Family Values</mark></span>
+    </a>
+    <a class="track tall" href="https://www.youtube.com/watch?v=jBHiFlM6qqw&list=RDjBHiFlM6qqw&start_radio=1&pp=ygUcc29waGlhcyBkcmVhbSBieSBuYW5kbyB2YWxleqAHAQ%3D%3D">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><mark>Sophia's Dream by Nando Valez</mark></span>
+    </a>
+    <a class="track tall" href="https://www.youtube.com/watch?v=AStlS0_Bewk&list=RDAStlS0_Bewk&start_radio=1">
+        <img src="{{ "/assets/gifs/dancing-allen.gif" | relative_url }}">
+        <span class="title"><br><br><br><br><br><br><mark>If You're Not Real by Trevor Forrest</mark></span>
+    </a>
+
+</div>
 
 <br> 
 
