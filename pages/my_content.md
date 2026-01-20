@@ -47,6 +47,10 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-19-fuck-ice %}">
+        <img src="{{ "/assets/images/fuck-ice-stickers.jpg" | relative_url }}">
+        <span class="title"><mark>My first real prayer in ten years</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-14-bruises %}">
         <img src="{{ "/assets/images/bruise.jpg" | relative_url }}">
         <span class="title"><mark>How can I prevent or treat bruises?</mark></span>
