@@ -24,6 +24,7 @@ You guys are really cool, and I just think it's a waste you don't know each othe
 <mark>⋆2026⋆</mark>
 
 - <mark>01월</mark> [Tarot Reading for Hannah Lim: Love 2026. by El Debattista]({{ site.baseurl }}{% post_url 2026-01-12-el-tarot %})
+- <mark>01월</mark> [American Interpretation of a Gujarati Interpretation of South Indian Curd Rice by Ishita Padhiar]({{ site.baseurl }}{% post_url 2026-01-19-yogurt-rice %})
 
 <br>
 
