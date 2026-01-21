@@ -47,6 +47,14 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-19-fuck-ice %}">
+        <img src="{{ "/assets/images/fuck-ice-stickers.jpg" | relative_url }}">
+        <span class="title"><mark>My first real prayer in ten years</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-14-bruises %}">
+        <img src="{{ "/assets/images/bruise.jpg" | relative_url }}">
+        <span class="title"><mark>How can I prevent or treat bruises?</mark></span>
+    </a>
     <div class="year">2026</div>
     <a class="track" href="{{ site.baseurl }}{% post_url 2025-12-17-coffee %}">
         <img src="{{ "/assets/images/toes.jpg" | relative_url }}">
@@ -141,6 +149,18 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 <div id="gamebox">
     {% include magnet_poetry.html %}
 </div>
+
+<br><br>
+
+- <mark>2026년 01월 14일</mark> [Every playlist I ever curated in Spotify](https://github.com/limh0228/schemes_and_machinations/tree/build/assets/spotify_playlists), and [the data analysis of all my liked songs]({{ site.baseurl }}{% post_url 2026-01-14-spotify %})
+
+
+
+<a href="{{ site.baseurl }}{% post_url 2026-01-14-spotify %}">
+    <img alt="Heat map showing affinity per between songs by several dimensions" src="{{ "/assets/images/spotify-analysis/heat-map2.png" | relative_url }}" />
+</a>
+
+
     
 
 
