@@ -121,6 +121,7 @@ All archived radio episodes were originally aired live at [8ballradio.nyc](https
 
 - <mark>2025년 12월</mark> [Hannah's Room Episode 1: Steph Li/Cooley's Reel](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
 - <mark>2026년 01월</mark> [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
+- <mark>2026년 01월</mark> [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
 
 <br>
 
