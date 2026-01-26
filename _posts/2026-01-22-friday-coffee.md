@@ -5,6 +5,13 @@ author: "Ishita Padhiar"
 date: 2026-01-22
 ---
 
+<figure>
+  <img alt="Ishita, Leighann and me smiling on the train" src="{{ "/assets/images/leighann-train.jpeg" | relative_url }}" />
+  <figcaption>
+    185 Residents Winter 2025
+  </figcaption>
+</figure>
+
 When Leighann Raksasouk moved into 185 Metropolitan Ave, she brought a lamp that she hung above her bed until it fell on her head (twice), a cutthroat (but usually correct) wisdom, and a strict new cleaning regimen. She also brought with her an espresso machine. 
 
 <br>
