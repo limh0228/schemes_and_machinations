@@ -113,15 +113,17 @@ title: Stuff I Make
 
 <h2 class = "section-header">⊹₊ Sounds ₊⊹</h2>
 
-<mark>⋆Radio Archive⋆</mark>
+<mark>⋆Community Radio Archive⋆</mark>
 
 All archived radio episodes were originally aired live at [8ballradio.nyc](https://8ballradio.nyc/)
 
 <br>
 
-- <mark>2025년 12월</mark> [Hannah's Room Episode 1: Steph Li/Cooley's Reel](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
-- <mark>2026년 01월</mark> [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
-- <mark>2026년 01월</mark> [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
+- <mark>2025년 12월 27일</mark> ⭐ [Hannah's Room Episode 1: Steph Li/Cooley's Reel](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
+- <mark>2026년 01월 02일</mark> [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
+- <mark>2026년 01월 24일</mark> ⭐ [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
+- <mark>2026년 01월 24일</mark> [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet] - link soon to be populated...
+- <mark>2026년 01월 26일</mark> [FREE PALESTINE]({{ site.baseurl }}{% post_url 2026-01-26-free-palestine %})
 
 <br>
 
