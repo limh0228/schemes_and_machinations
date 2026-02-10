@@ -122,8 +122,9 @@ All archived radio episodes were originally aired live at [8ballradio.nyc](https
 - <mark>2025년 12월 27일</mark> ⭐ [Hannah's Room Episode 1: Steph Li/Cooley's Reel](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
 - <mark>2026년 01월 02일</mark> [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
 - <mark>2026년 01월 24일</mark> ⭐ [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
-- <mark>2026년 01월 24일</mark> [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet] - link soon to be populated...
+- <mark>2026년 01월 24일</mark> [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet](/assets/audio/radio/2026-01-24-carissa_guest.mp3)
 - <mark>2026년 01월 26일</mark> [FREE PALESTINE]({{ site.baseurl }}{% post_url 2026-01-26-free-palestine %})
+- <mark>2026년 02월 01일</mark> Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik%201.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik%202.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik%203.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik%204.mp3)
 
 <br>
 
