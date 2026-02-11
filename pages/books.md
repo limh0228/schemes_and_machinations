@@ -12,6 +12,14 @@ layout: default_with_menu
 
 <main class = "book-grid">
     <a class="track" href="https://docs.google.com/document/d/1uuAxBhOLdW-_uN8UgUs9S6pqgpJZRLHnI7Tv-XBdjbQ/edit?usp=sharing">UP NEXT ON MY READING LIST [CLICK ME!]</a>
+    <a class="track" href="/assets/pdfs/AutobiographyOfRed.pdf">
+        <img src="{{ "/assets/images/books/autobiography-of-red.png" | relative_url }}">
+        <span class="title"><mark>Autobiography of Red by Anne Carson</mark></span>
+    </a>
+    <a class="track" href="/assets/pdfs/Eros.pdf">
+        <img src="{{ "/assets/images/books/sappho.png" | relative_url }}">
+        <span class="title"><mark>Eros: the Bittersweet by Anne Carson</mark></span>
+    </a>
     <a class="track" href="https://theanarchistlibrary.org/library/simone-weil-the-iliad">
         <img src="{{ "/assets/images/books/iliad.jpg" | relative_url }}">
         <span class="title"><mark>The Illiad</mark></span>
