@@ -47,6 +47,22 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-parallel-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/lgs_unaware.jpeg" | relative_url }}">
+        <span class="title"><mark>Parallel motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-contrary-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/horizon.jpg" | relative_url }}">
+        <span class="title"><mark>Contrary motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-oblique-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/stay.png" | relative_url }}">
+        <span class="title"><mark>Oblique motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-similar-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/eyes.jpeg" | relative_url }}">
+        <span class="title"><mark>Similar motion</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-19-fuck-ice %}">
         <img src="{{ "/assets/images/fuck-ice-stickers.jpg" | relative_url }}">
         <span class="title"><mark>My first real prayer in ten years</mark></span>
@@ -124,7 +140,7 @@ All archived radio episodes were originally aired live at [8ballradio.nyc](https
 - <mark>2026년 01월 24일</mark> ⭐ [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
 - <mark>2026년 01월 24일</mark> [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet](/assets/audio/radio/2026-01-24-carissa_guest.mp3)
 - <mark>2026년 01월 26일</mark> [FREE PALESTINE]({{ site.baseurl }}{% post_url 2026-01-26-free-palestine %})
-- <mark>2026년 02월 01일</mark> Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik%201.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik%202.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik%203.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik%204.mp3)
+- <mark>2026년 02월 01일</mark> Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik1.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik2.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik3.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik4.mp3)
 
 <br>
 
@@ -146,7 +162,7 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 
 <h2 class = "section-header">⋆˚✿˖ Misc ✿˖°⋆</h2>
 
-- <mark>2025년 09월 04일</mark> Suffragette themed fridge magnet poetry! [Share your excellent magnet poetry here](https://github.com/limh0228/schemes_and_machinations/discussions/69)
+- <mark>2025년 09월 04일</mark> Suffragette themed fridge magnet poetry!
 
 <br>
 
