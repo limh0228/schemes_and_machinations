@@ -47,6 +47,22 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-parallel-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/lgs_unaware.jpeg" | relative_url }}">
+        <span class="title"><mark>Parallel motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-contrary-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/horizon.jpg" | relative_url }}">
+        <span class="title"><mark>Contrary motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-oblique-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/stay.png" | relative_url }}">
+        <span class="title"><mark>Oblique motion</mark></span>
+    </a>
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-similar-motion %}">
+        <img src="{{ "/assets/images/contrapuntal-motion/eyes.jpeg" | relative_url }}">
+        <span class="title"><mark>Similar motion</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-01-19-fuck-ice %}">
         <img src="{{ "/assets/images/fuck-ice-stickers.jpg" | relative_url }}">
         <span class="title"><mark>My first real prayer in ten years</mark></span>
@@ -146,7 +162,7 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 
 <h2 class = "section-header">⋆˚✿˖ Misc ✿˖°⋆</h2>
 
-- <mark>2025년 09월 04일</mark> Suffragette themed fridge magnet poetry! [Share your excellent magnet poetry here](https://github.com/limh0228/schemes_and_machinations/discussions/69)
+- <mark>2025년 09월 04일</mark> Suffragette themed fridge magnet poetry!
 
 <br>
 

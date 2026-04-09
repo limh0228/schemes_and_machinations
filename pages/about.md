@@ -11,7 +11,7 @@ This is the landing pad for everything I make. Mostly this blog will be about my
 
 <br>
 
-Contact me if you’d like to get freaky and make things together. We can jam, or write something together… My email is Lim.Hannah0228@gmail.com
+Contact me if you’d like to get freaky and make things together. We can jam, or write something together… My email is Lim.Hannah0228[at]gmail.com
 
 <br>
 
