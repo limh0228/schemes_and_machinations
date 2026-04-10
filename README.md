@@ -9,7 +9,7 @@ To add to my blog, check [CONTRIBUTING.md](CONTRIBUTING.md)
 2. Find more of Sarah's writing on [Substack](https://substack.com/@swangxswang)
 3. Find more of Kyle's art at [his website](https://gooeyfunction.neocities.org/)
 4. Find more of Lewis's photography [here](https://www.instagram.com/_funkydiabetic?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-5. Find more of Christian's music [here](https://open.spotify.com/artist/3dLfSKXBaUx8aRuMNe1jtq?si=fzPCIeOFTUSLOht2bBm2TA)
+5. Find more of Samir's writing [here](https://www.cs.toronto.edu/~fsamir/)
 
 # COMMUNITY DISCUSSIONS
 Let's be friends. Check community discussions under the [discussion tab](https://github.com/limh0228/schemes_and_machinations/discussions). Feel free to add any of your own posts here -- it is a free space.
