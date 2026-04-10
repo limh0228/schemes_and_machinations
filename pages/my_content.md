@@ -14,6 +14,10 @@ title: Stuff I Make
 
 <br>
 
+- <mark>04월</mark> [A Goodbye Letter to my Coworkers]({{ site.baseurl }}{% post_url 2026-04-03-goodbye-microsoft %})
+
+<br>
+
 <mark>⋆2025⋆</mark>
 
 <br>
