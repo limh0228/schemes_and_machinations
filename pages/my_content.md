@@ -148,6 +148,7 @@ All archived radio episodes were originally aired live at [8ballradio.nyc](https
 - <mark>2026년 02월 21일</mark> ⭐ Hannah's Room Episode 3: This audio recording was lost to time :(
 - <mark>2026년 03월 21일</mark> ⭐ [Hannah's Room Episode 4: Barber Violin Concerto](/assets/audio/radio/HannahsRoomEp3.mp3)
 - <mark>2026년 04월 18일</mark> ⭐ [Hannah's Room Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
+- <mark>2026년 04월 19일</mark> ⭐ [8 Ball x Secret Riso Club's April 2026 Cassette Class Mixtape](/assets/audio/radio/2026-04-16-SRC-Cassette-Class-Mix.mp3)
 
 <br><br>
 
