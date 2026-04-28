@@ -12,6 +12,14 @@ layout: default_with_menu
 
 <main class = "book-grid">
     <a class="track" href="https://docs.google.com/document/d/1uuAxBhOLdW-_uN8UgUs9S6pqgpJZRLHnI7Tv-XBdjbQ/edit?usp=sharing">UP NEXT ON MY READING LIST [CLICK ME!]</a>
+    <a class="track" href="/assets/images/books/AUTOMATION.pdf">
+        <img src="{{ "/assets/images/books/automation.png" | relative_url }}">
+        <span class="title"><mark>Automation and the Future of Work by Aaron Benanav</mark></span>
+    </a>
+    <a class="track" href="/assets/images/books/problem-of-pain.pdf">
+        <img src="{{ "/assets/images/books/problem-of-pain.png" | relative_url }}">
+        <span class="title"><mark>The Problem of Pain by C. S. Lewis</mark></span>
+    </a>
     <a class="track" href="https://corrierafah.wordpress.com/">
         <img src="{{ "/assets/images/books/palestine.png" | relative_url }}">
         <span class="title"><mark>Un-erasing genocide by Rachel Corrie</mark></span>
