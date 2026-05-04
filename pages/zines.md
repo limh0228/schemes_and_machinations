@@ -5,9 +5,9 @@ layout: default_with_menu
 <h1 style = "font-family:'STAR';">You want a copy of my zine?</h1>
 <br><br><br>
 
-<mark>Fill out  <a href="{{ "/pages/zine_jotform.html" | relative_url }}">this form</a> to request a zine. </mark><br>
+<mark>Send me an email at Lim.Hannah0228[at]gmail.com to request a zine. </mark><br>
 <mark>I will mail you whichever one is currently in print!</mark><br>
-<mark>Currently, that is <a href="{{ "/assets/pdfs/zines/Issue 4.pdf" | relative_url }}">Issue 4: Threat of Desire</a> </mark>
+<mark>Currently, that is <a href="{{ "/assets/pdfs/zines/Issue 4.pdf" | relative_url }}">Issue 4: Threat of Desire</a></mark>
 
 <br><br>
 
@@ -15,9 +15,9 @@ layout: default_with_menu
 <script src="{{ "/assets/javascript/elfsight.js" | relative_url }}" async></script>
 <div class="elfsight-app-0322ff22-cdd5-43c9-878a-757a0bb13566" data-elfsight-app-lazy></div>
 
-<br>
+<br><br>
 
-#### Plain Text Index for Accessibility
+<h1 style = "font-family:'STAR';">Plain Text Index</h1>
 - [OCT 2024] <a href="{{ "/assets/pdfs/zines/Issue 1.pdf" | relative_url }}">Issue 1: Goodbye Seattle</a>
 - [FEB 2025] <a href="{{ "/assets/pdfs/zines/Issue 2.pdf" | relative_url }}">Issue 2: To Be a Hatchling Again</a>
 - [JUN 2025] <a href="{{ "/assets/pdfs/zines/Issue 3.pdf" | relative_url }}">Issue 3: Good, Simple and Honest</a> 
