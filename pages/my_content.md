@@ -133,22 +133,40 @@ title: Stuff I Make
 
 <h2 class = "section-header">⊹₊ Radio ₊⊹</h2>
 
-<mark>⋆Community Radio Archive⋆</mark>
-
-All archived radio episodes were originally aired live at [8ballradio.nyc](https://8ballradio.nyc/)
+All archived radio shows were originally broadcasted live at [8ballradio.nyc](https://8ballradio.nyc/)
 
 <br>
 
-- <mark>2025년 12월 27일</mark> ⭐ [Hannah's Room Episode 1: Steph Li/Cooley's Reel](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
-- <mark>2026년 01월 02일</mark> [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
-- <mark>2026년 01월 24일</mark> ⭐ [Hannah's Room Episode 2: Steph Li/Cooley's Reel Continued](/assets/audio/radio/HannahsRoomEp2.mp3)
-- <mark>2026년 01월 24일</mark> [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet](/assets/audio/radio/2026-01-24-carissa_guest.mp3)
-- <mark>2026년 01월 26일</mark> [FREE PALESTINE]({{ site.baseurl }}{% post_url 2026-01-26-free-palestine %})
-- <mark>2026년 02월 01일</mark> Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik1.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik2.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik3.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik4.mp3)
-- <mark>2026년 02월 21일</mark> ⭐ Hannah's Room Episode 3: This audio recording was lost to time :(
-- <mark>2026년 03월 21일</mark> ⭐ [Hannah's Room Episode 4: Barber Violin Concerto](/assets/audio/radio/HannahsRoomEp3.mp3)
-- <mark>2026년 04월 18일</mark> ⭐ [Hannah's Room Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
-- <mark>2026년 04월 19일</mark> ⭐ [8 Ball x Secret Riso Club's April 2026 Cassette Class Mixtape](/assets/audio/radio/2026-04-16-SRC-Cassette-Class-Mix.mp3)
+<mark>⋆Hannah's Room: Welcome to my room⋆</mark>
+
+<br>
+
+- [2025년 12월 27일] [Episode 1: Learning Cooley's Reel with Steph Li](/assets/audio/radio/Hannahs%20Room%20Ep%201%20-%20Steph%20Cooley's%20Reel.mp3)
+- [2026년 01월 24일] [Episode 2: Learning Cooley's Reel with Steph Li Pt. 2](/assets/audio/radio/HannahsRoomEp2.mp3)
+- [2026년 02월 21일] Episode 3: This audio recording was lost to time :(
+- [2026년 03월 21일] [Episode 4: Barber Violin Concerto](/assets/audio/radio/HannahsRoomEp3.mp3)
+- [2026년 04월 18일] [Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
+
+<br>
+
+<mark>⋆FR33 PAL3STIN3!⋆</mark>
+
+<br>
+
+- [2026년 01월 26일] [Hope is Your Civic Duty]({{ site.baseurl }}{% post_url 2026-01-26-free-palestine %})
+- [2026년 04월 20일] [The Limits and Possibilities of Black-Palestinian Transnational Solidarity](/assets/audio/radio/2026-04-20-FREE-PALESTINE.mp3)
+
+<br>
+
+<mark>⋆One-off shows⋆</mark>
+
+<br>
+
+- [2026년 01월 02일] [Lamarr Family Values - Factory Reset Album Release Party <3](/assets/audio/radio/Lamarr%20Family%20Values%20-%20Factory%20Reset.mp3)
+- [2026년 01월 24일] [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet](/assets/audio/radio/2026-01-24-carissa_guest.mp3)
+- [2026년 02월 01일] Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik1.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik2.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik3.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik4.mp3)
+- [2026년 04월 19일] [8 Ball x Secret Riso Club's April 2026 Cassette Class Mixtape](/assets/audio/radio/2026-04-16-SRC-Cassette-Class-Mix.mp3)
+
 
 <br><br>
 
@@ -175,7 +193,7 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 
 <h2 class = "section-header">⋆˚✿˖ Misc ✿˖°⋆</h2>
 
-- <mark>2025년 09월 04일</mark> Suffragette themed fridge magnet poetry!
+- Suffragette themed fridge magnet poetry!
 
 <br>
 
@@ -185,7 +203,7 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 
 <br><br>
 
-- <mark>2026년 01월 14일</mark> [Every playlist I ever curated in Spotify](https://github.com/limh0228/schemes_and_machinations/tree/build/assets/spotify_playlists), and [the data analysis of all my liked songs]({{ site.baseurl }}{% post_url 2026-01-14-spotify %})
+- [Every playlist I ever curated in Spotify](https://github.com/limh0228/schemes_and_machinations/tree/build/assets/spotify_playlists), and [the data analysis of all my liked songs]({{ site.baseurl }}{% post_url 2026-01-14-spotify %})
 
 
 
