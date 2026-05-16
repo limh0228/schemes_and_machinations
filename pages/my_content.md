@@ -51,6 +51,10 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-05-16-moth %}">
+        <img src="{{ "/assets/images/moth.jpg" | relative_url }}">
+        <span class="title"><mark>MOTH</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-04-09-parallel-motion %}">
         <img src="{{ "/assets/images/contrapuntal-motion/lgs_unaware.jpeg" | relative_url }}">
         <span class="title"><mark>Parallel motion</mark></span>
@@ -146,6 +150,7 @@ All archived radio shows were originally broadcasted live at [8ballradio.nyc](ht
 - [2026년 02월 21일] Episode 3: This audio recording was lost to time :(
 - [2026년 03월 21일] [Episode 4: Barber Violin Concerto](/assets/audio/radio/HannahsRoomEp3.mp3)
 - [2026년 04월 18일] [Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
+- [2026년 05월 16일] [Episode 6: MOTH by Keegs]({{ site.baseurl }}{% post_url 2026-05-16-moth %})
 
 <br>
 
