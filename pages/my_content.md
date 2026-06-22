@@ -171,25 +171,9 @@ All archived radio shows were originally broadcasted live at [8ballradio.nyc](ht
 - [2026년 01월 24일] [Carissa Adriano ft. Chick Corea Lyric Suite for Sextet](/assets/audio/radio/2026-01-24-carissa_guest.mp3)
 - [2026년 02월 01일] Tchaik night! (12 hours of back to back Tchaikovsky) [Part 1,](/assets/audio/radio/Tchaik/Tchaik1.mp3) [Part 2,](/assets/audio/radio/Tchaik/Tchaik2.mp3)  [Part 3,](/assets/audio/radio/Tchaik/Tchaik3.mp3) [Part 4](/assets/audio/radio/Tchaik/Tchaik4.mp3)
 - [2026년 04월 19일] [8 Ball x Secret Riso Club's April 2026 Cassette Class Mixtape](/assets/audio/radio/2026-04-16-SRC-Cassette-Class-Mix.mp3)
-
-
-<br><br>
-
-<!-- For navigation from sidebar -->
-<div id="music"></div>
-
-<h2 class = "section-header">⊹₊ Music ₊⊹</h2>
-
-<mark>⋆Music⋆</mark>
-
-All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp.com/)
-
-<br>
-- <mark>2025년 01월</mark> [Sea Monster](https://hannahlim.bandcamp.com/track/sea-monster)
-- <mark>2025년 02월</mark> [Let Us Believe in the Dawn of the Cold Season](https://hannahlim.bandcamp.com/track/let-us-believe-in-the-dawn-of-the-cold-season)
-- <mark>2025년 06월</mark> [Our Dreams Are Simple, You and Me](https://hannahlim.bandcamp.com/album/our-dreams-are-simple-you-and-me)
-- <mark>2025년 06월</mark> [Tuyo by Rodrigo Amarante - Korean Ver. Cover](https://hannahlim.bandcamp.com/track/tuyo-korean)
-- <mark>2025년 10월</mark> [Cover of Paul McCartney's - When the Wind is Blowing]({{ site.baseurl }}{% post_url 2025-10-23-wind-is-blowing %})
+- [2026년 05월 24일] [Correspondence no.1 / A Humble Critique of Your Breakup Letter w/ Lily](https://www.mixcloud.com/8ballradio/correspondence-no1/) - in which I am merely a guest
+- [2026년 05월 24일] [It's Casual 02 w/ Yagmur](https://www.mixcloud.com/8ballradio/its-casual-02/) - in which we make a found word poem together!
+- [2026년 06월 07일] [Correspondence no.2 / Autopsy w/ Lily](https://www.mixcloud.com/8ballradio/correspondence-no2-autopsy/) - in which I read an angry breakup letter
 
 <br><br>
 
@@ -198,23 +182,20 @@ All my music can also be found for free at [bandcamp](https://hannahlim.bandcamp
 
 <h2 class = "section-header">⋆˚✿˖ Misc ✿˖°⋆</h2>
 
-- Suffragette themed fridge magnet poetry!
-
-<br>
-
-<div id="gamebox">
-    {% include magnet_poetry.html %}
+<div class="book-grid">
+    <a class="track large" href="/pages/magnet_poetry.html">
+        <img src="{{ "/assets/images/games/magnet-poetry.png" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>Suffragette themed fridge magnet poetry!</mark></span>
+    </a>
+    <a class="track large" href="{{ site.baseurl }}{% post_url 2026-01-14-spotify %}">
+        <img src="{{ "/assets/images/spotify-analysis/heat-map2.png" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>Every playlist I ever curated in Spotify and a bunch of fucking data</mark></span>
+    </a>
+    <a class="track large" href="/pages/duchamp_large_glass.html">
+        <img src="{{ "/assets/images/games/duchamp.jpg" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>Minigame, After Duchamp</mark></span>
+    </a>
 </div>
-
-<br><br>
-
-- [Every playlist I ever curated in Spotify](https://github.com/limh0228/schemes_and_machinations/tree/build/assets/spotify_playlists), and [the data analysis of all my liked songs]({{ site.baseurl }}{% post_url 2026-01-14-spotify %})
-
-
-
-<a href="{{ site.baseurl }}{% post_url 2026-01-14-spotify %}">
-    <img alt="Heat map showing affinity per between songs by several dimensions" src="{{ "/assets/images/spotify-analysis/heat-map2.png" | relative_url }}" />
-</a>
 
 
     

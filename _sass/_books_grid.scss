@@ -24,6 +24,13 @@
     margin: 3px;
 }
 
+.book-grid .large {
+    height: 350px;
+    width: 350px;
+    border: none;
+    margin: 10px;
+}
+
 mark {
   background-color: HotPink;
   color: $brand-color-dark;
