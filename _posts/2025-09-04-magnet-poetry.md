@@ -16,4 +16,4 @@ Come write poetry with me!
 
 <br>
 
-The wordbank is inspired by real magnet poetry on our actual fridge. [Share your excellent magnet poetry in the audience submissions gallery here.](https://github.com/limh0228/schemes_and_machinations/discussions/69)
+The wordbank is inspired by real magnet poetry on our actual fridge. Email me a screenshot of your excellent magnet poetry.

@@ -27,3 +27,94 @@ Stylesheet for fridge magnet poetry
   -webkit-user-select: none;
   user-select: none;
 }
+
+/*
+Specific style modifiers for Duchamp mini game
+*/
+
+/*
+Source - https://stackoverflow.com/a/69347971
+Posted by Jesper
+Retrieved 2026-06-14, License - CC BY-SA 4.0
+*/
+
+.map {
+    width: 900px;
+    height: 1200px;
+    margin: 50px;
+    position: relative;
+}
+
+.map .base {
+    position: absolute;
+    width: inherit;
+    height: inherit;
+}
+
+.map .sensor {
+    display: inline-block;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.dragme {
+    cursor: move;
+    left: 0px;
+    top: 0px;
+}
+
+#chocolate {
+  width: 195px;
+  height: 215px;
+}
+
+#bride {
+  width: 160px;
+  height: 210px;
+}
+
+#bride_body {
+  width: 200px;
+  height: 450px;
+}
+
+#shots {
+  width: 100px;
+  height: 350px;
+}
+
+#inscription {
+  width: 680px;
+  height: 150px;
+}
+
+#brideclothes {
+  width: 150px;
+  height: 75px;
+}
+
+#seives {
+  width: 420px;
+  height: 175px;
+}
+
+#moulds {
+  width: 400px;
+  height: 250px;
+}
+
+#mill {
+  width: 250px;
+  height: 400px;
+}
+
+#occultist {
+  width: 200px;
+  height: 180px;
+}
+
+#boxing {
+  width: 100px;
+  height: 100px;
+}

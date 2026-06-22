@@ -1,0 +1,171 @@
+<div>
+  <div class="map">
+    <img src='/assets/images/games/diagram.jpeg' class="base" draggable="false" onload="baseOnLoad()">
+  <div>
+
+  <!-- DragDropTouch needed to support mobile -->
+  <script src="{{ "/assets/javascript/DragDropTouch.js" | relative_url }}" ></script>
+  
+  <script>
+    let maxLeft;
+    let maxTop;
+    var max_z_index = 100;
+    const minLeft = 0;
+    const minTop = 0;
+    let timeDelta;
+    let imgs = [
+        "/assets/images/games/chocolate-grinder.png",
+        "/assets/images/games/pendu.png",
+        "/assets/images/games/bride.png",
+        "/assets/images/games/shots.png",
+        "/assets/images/games/inscription.png",
+        "/assets/images/games/brideclothes.png",
+        "/assets/images/games/seives.png",
+        "/assets/images/games/moulds.png",
+        "/assets/images/games/mill.png",
+        "/assets/images/games/occultist.png",
+        "/assets/images/games/boxing.png"
+    ]
+    var originalX;
+    var originalY;
+
+    window.onload = function() {
+        document.onmousedown = startDrag;
+        document.onmouseup = stopDrag;
+    }
+
+    // when our base is loaded
+    function baseOnLoad() {
+        var map = document.getElementsByClassName("map")[0];
+        let base = document.getElementsByClassName("base")[0];
+        maxLeft = base.width - 100;
+        maxTop = base.height - 100;
+
+        /* my smaller images: */
+        for (let i = 0; i < imgs.length; i++) {
+            let sensor = document.createElement("img");
+            sensor.src = imgs[i % imgs.length];
+            sensor.alt = i;
+            sensor.draggable = true;
+            sensor.classList.add("sensor");
+            sensor.classList.add("dragme");
+            sensor.style.left = `${Math.floor(Math.random() * 900)}px`
+            sensor.style.top = `${Math.floor(Math.random() * 500)}px`
+            sensor.style.zIndex = "0";
+
+            switch (i){
+              case 0: 
+                sensor.id = "chocolate";
+                break;
+              case 1:
+                sensor.id = "bride";
+                break;
+              case 2:
+                sensor.id = "bride_body";
+                break;
+              case 3: 
+                sensor.id = "shots";
+                break;
+              case 4:
+                sensor.id = "inscription";
+                break;
+              case 5:
+                sensor.id = "brideclothes";
+                break;
+              case 6:
+                sensor.id = "seives";
+                break;
+              case 7:
+                sensor.id = "moulds";
+                break;
+              case 8:
+                sensor.id = "mill";
+                break;
+              case 9:
+                sensor.id = "occultist";
+                break;
+              case 10:
+                sensor.id = "boxing";
+                break;
+              default:
+                sensor.id = i;
+            }
+
+            let parent = document.getElementsByClassName("map")[0];
+            parent.appendChild(sensor);
+        }
+    }
+
+    function startDrag(e) { 
+        timeDelta = Date.now(); // get current millis
+
+        // determine event object
+        if (!e) var e = window.event;
+
+        // prevent default event
+        if(e.preventDefault) e.preventDefault();
+
+        // IE uses srcElement, others use target
+        targ = e.target ? e.target : e.srcElement;
+
+        originalX = targ.style.left;
+        originalY = targ.style.top;
+
+        // check that this is a draggable element
+        if (!targ.classList.contains('dragme')) return;
+        
+        // calculate event X, Y coordinates
+        offsetX = e.clientX;
+        offsetY = e.clientY;
+
+        // calculate integer values for top and left properties
+        coordX = parseInt(targ.style.left);
+        coordY = parseInt(targ.style.top);
+        drag = true;
+
+        document.onmousemove = dragDiv; // move div element
+
+        // put this div on top
+        e.target.style.zIndex = max_z_index;
+        max_z_index = max_z_index + 1;
+
+        return false; // prevent default event
+    }
+
+    function dragDiv(e) {
+        if (!drag) return;
+        if (!e) var e = window.event;
+
+        // move div element and check for borders
+        let newLeft = coordX + e.clientX - offsetX;
+        if (newLeft < maxLeft && newLeft > minLeft) targ.style.left = newLeft + 'px'
+        
+        let newTop = coordY + e.clientY - offsetY;
+        if (newTop < maxTop && newTop > minTop) targ.style.top = newTop + 'px'
+
+        return false; // prevent default event
+    }
+
+    function stopDrag() {
+        if (typeof drag == "undefined") return;
+
+        if (drag) {
+            if (Date.now() - timeDelta > 150) { // we dragged
+                let p = document.getElementById("popup");
+                if (p) {
+                    p.parentNode.removeChild(p);
+                }
+            } else {
+                targ.style.left = originalX;
+                targ.style.top = originalY;
+            }
+        }
+
+        drag = false;
+    }
+
+  </script>
+
+</div>
+
+

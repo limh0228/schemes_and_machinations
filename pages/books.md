@@ -12,6 +12,14 @@ layout: default_with_menu
 
 <main class = "book-grid">
     <a class="track" href="https://docs.google.com/document/d/1uuAxBhOLdW-_uN8UgUs9S6pqgpJZRLHnI7Tv-XBdjbQ/edit?usp=sharing">UP NEXT ON MY READING LIST [CLICK ME!]</a>
+    <a class="track" href="https://dn790007.ca.archive.org/0/items/the-wretched-of-the-earth/The%20Wretched%20Of%20The%20Earth.pdf">
+        <img src="{{ "/assets/images/books/wretched.png" | relative_url }}">
+        <span class="title"><mark>The Wretched of the Earth by Frantz Fanon</mark></span>
+    </a>
+    <a class="track" href="https://publishing.cdlib.org/ucpressebooks/view?docId=ft9h4nb688;brand=ucpress">
+        <img src="{{ "/assets/images/books/duchamp.png" | relative_url }}">
+        <span class="title"><mark>The Private Worlds of Marcel Duchamp by Jerrold Seigel</mark></span>
+    </a>
     <a class="track" href="/assets/images/books/AUTOMATION.pdf">
         <img src="{{ "/assets/images/books/automation.png" | relative_url }}">
         <span class="title"><mark>Automation and the Future of Work by Aaron Benanav</mark></span>
