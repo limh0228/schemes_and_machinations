@@ -152,8 +152,8 @@ All archived radio shows were originally broadcasted live at [8ballradio.nyc](ht
 - [2026년 04월 18일] [Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
 - [2026년 05월 16일] [Episode 6: MOTH by Keegs]({{ site.baseurl }}{% post_url 2026-05-16-moth %})
 - [2026년 06월 13일] [Episode 7: The Forgiving Our Parents Episode w/ Steph!](/assets/audio/radio/HannahsRoomEpisode7.m4a)
-- [2026년 07월 11일] [Episode 8: The Summer Mix]()
-- [2026년 08월 08일] Episode 9: The episode with unknown interference, whose recording is lost to time
+- [2026년 07월 11일] [Episode 8: The Summer Mix](/assets/audio/radio/Hannah'sRoomEpisode8.m4a)
+- [2026년 08월 08일] Episode 9: The episode with unknown interference, whose recording is lost to time. In this episode, I interviewed Adriana and Rui. Guess you just had to be there.
 - [2026년 09월 05일] Episode 10: Interview w/ Adriana and Rui
 
 <br>
