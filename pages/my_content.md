@@ -16,6 +16,20 @@ title: Stuff I Make
 
 - <mark>04월</mark> [A Goodbye Letter to my Coworkers]({{ site.baseurl }}{% post_url 2026-04-03-goodbye-microsoft %})
 
+- <mark>05월</mark> [In May I Did Acid]({{ site.baseurl }}{% post_url 2026-05-30-i-did-acid %})
+
+- <mark>06월</mark> [On Sedition Pt. 1: Surreal Descent]({{ site.baseurl }}{% post_url 2026-06-01-surreal-descent %})
+
+- <mark>07월</mark> [On Sedition Pt. 2: Regarding Pain Relief]({{ site.baseurl }}{% post_url 2026-07-01-pain-relief %})
+
+- <mark>08월</mark> [On Sedition Pt. 3: Prarieland]({{ site.baseurl }}{% post_url 2026-08-01-prarieland %})
+
+- <mark>09월</mark> [On Sedition Pt. 4: How Do We Save Ourselves?]({{ site.baseurl }}{% post_url 2026-09-01-save-ourselves %})
+
+- <mark>09월</mark> [On Sedition Pt. 5: Life After Death]({{ site.baseurl }}{% post_url 2026-09-10-life-after-death %})
+
+
+
 <br>
 
 <mark>⋆2025⋆</mark>
@@ -51,6 +65,10 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-10-15-gratitudes %}">
+        <img src="{{ "/assets/images/gratitudes.jpg" | relative_url }}">
+        <span class="title"><mark>The Wall</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-05-16-moth %}">
         <img src="{{ "/assets/images/moth.jpg" | relative_url }}">
         <span class="title"><mark>MOTH</mark></span>
@@ -152,9 +170,9 @@ All archived radio shows were originally broadcasted live at [8ballradio.nyc](ht
 - [2026년 04월 18일] [Episode 5: Spring and Summer Poems with Tomás Pacheco](/assets/audio/radio/HannahsRoomEpisode5.mp3)
 - [2026년 05월 16일] [Episode 6: MOTH by Keegs]({{ site.baseurl }}{% post_url 2026-05-16-moth %})
 - [2026년 06월 13일] [Episode 7: The Forgiving Our Parents Episode w/ Steph!](/assets/audio/radio/HannahsRoomEpisode7.m4a)
-- [2026년 07월 11일] [Episode 8: The Summer Mix]()
-- [2026년 08월 08일] Episode 9: The episode with unknown interference, whose recording is lost to time
-- [2026년 09월 05일] Episode 10: Interview w/ Adriana and Rui
+- [2026년 07월 11일] [Episode 8: The Summer Mix](/assets/audio/radio/Hannah'sRoomEpisode8.m4a)
+- [2026년 08월 08일] Episode 9: The episode with unknown interference: In this episode, I interviewed Adriana and Rui amid several undiagnosed broadcasting interruptions. Who was trying to stop us? Or why? I still don't know the answers. And I also lost the audio recording. Guess you just had to be there.
+- [2026년 09월 05일] [Episode 10: Interview Regarding the Future of Television w/ Adriana and Rui](/assets/audio/radio/HannahsRoomEpisode10.m4a)
 
 <br>
 
