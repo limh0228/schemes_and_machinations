@@ -51,6 +51,10 @@ title: Stuff I Make
 <h2 class = "section-header">❀˚ Poetry °❀ೃ࿔</h2>
 
 <div class="book-grid">
+    <a class="track" href="{{ site.baseurl }}{% post_url 2026-10-15-gratitudes %}">
+        <img src="{{ "/assets/images/gratitudes.jpg" | relative_url }}">
+        <span class="title"><mark>The Wall</mark></span>
+    </a>
     <a class="track" href="{{ site.baseurl }}{% post_url 2026-05-16-moth %}">
         <img src="{{ "/assets/images/moth.jpg" | relative_url }}">
         <span class="title"><mark>MOTH</mark></span>
