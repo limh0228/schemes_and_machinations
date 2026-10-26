@@ -16,6 +16,20 @@ title: Stuff I Make
 
 - <mark>04월</mark> [A Goodbye Letter to my Coworkers]({{ site.baseurl }}{% post_url 2026-04-03-goodbye-microsoft %})
 
+- <mark>05월</mark> [In May I Did Acid]({{ site.baseurl }}{% post_url 2026-05-30-i-did-acid %})
+
+- <mark>06월</mark> [On Sedition Pt. 1: Surreal Descent]({{ site.baseurl }}{% post_url 2026-06-01-surreal-descent %})
+
+- <mark>07월</mark> [On Sedition Pt. 2: Regarding Pain Relief]({{ site.baseurl }}{% post_url 2026-07-01-pain-relief %})
+
+- <mark>08월</mark> [On Sedition Pt. 3: Prarieland]({{ site.baseurl }}{% post_url 2026-08-01-prarieland %})
+
+- <mark>09월</mark> [On Sedition Pt. 4: How Do We Save Ourselves?]({{ site.baseurl }}{% post_url 2026-09-01-save-ourselves %})
+
+- <mark>09월</mark> [On Sedition Pt. 5: Life After Death]({{ site.baseurl }}{% post_url 2026-09-10-life-after-death %})
+
+
+
 <br>
 
 <mark>⋆2025⋆</mark>

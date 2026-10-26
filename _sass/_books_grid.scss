@@ -31,6 +31,17 @@
     margin: 10px;
 }
 
+.book-grid .zines {
+    vertical-align: top;
+    position: relative;
+    color: inherit;
+    text-decoration: none;
+    transition: box-shadow 1s;
+    height: 350px;
+    width: 220px;
+    margin: 10px;
+}
+
 mark {
   background-color: HotPink;
   color: $brand-color-dark;
