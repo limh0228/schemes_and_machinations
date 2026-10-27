@@ -48,6 +48,7 @@ title: Let's Make Stuff Together
 - <mark>01월</mark> [American Interpretation of a Gujarati Interpretation of South Indian Curd Rice by Ishita Padhiar]({{ site.baseurl }}{% post_url 2026-01-19-yogurt-rice %})
 - <mark>01월</mark> [Friday Coffee Recipe by Ishita Padhiar]({{ site.baseurl }}{% post_url 2026-01-22-friday-coffee %})
 - <mark>04월</mark> [When Police Kill, Civilian Voices are Sidelined in News Reporting by Farhan Samir](https://thetyee.ca/Analysis/2026/04/03/When-Police-Kill-Civilian-Voices-Sidelined-News/)
+- <mark>10월</mark> [Dad by LGS]({{ site.baseurl }}{% post_url 2026-10-27-kevin-spencer %})
 
 <br>
 
@@ -123,8 +124,8 @@ title: Let's Make Stuff Together
 <!-- For navigation from sidebar -->
 <div id="groups"></div>
 
-<h2 class = "section-header">NYC interest groups that are lowkey radical</h2>
-Getting involved with these groups helps me practically embody progressive socialist ethics in my daily life. I believe that creating radical change in sustainable, nonviolent ways -- though not to discount unsustainable, violent methods -- is the only way for us to get through life while persistently rescusitating hope for a better world.
+<h2 class = "section-header">NYC interest groups</h2>
+Getting involved with these groups helps me practically embody progressive ethics in my daily life. I believe that creating radical change in sustainable, nonviolent ways -- though not to discount unsustainable, violent methods -- is the only way for us to get through life while persistently rescusitating hope for a better world.
 
 <br>
 
@@ -133,6 +134,8 @@ Getting involved with these groups helps me practically embody progressive socia
 - [North Brooklyn Mutual Aid Group](https://northbrooklynmutualaid.org/Community-Initiatives): Decentralized community initiatives for Williamsburg/Greenpoint, neighbor to neighbor. I work on the community fridges which provide access to food freely given and free to take, neighbor to neighbor.
 
 - [8 Ball Artist Collective](https://8ballcommunity.club/): Anarchist, volunteer-run, anti-capitalist artist collective for artists by artists. They provide free materials, space (at 1 E. Broadway), and community for all to make, sell, learn and love art. I work on zines, radio, and publishing.
+
+- [Tech Worker's Coalition](https://techworkerscoalition.org/): A coalition of volunteer-led workers in and around the tech industry, labor organizers, community organizers, and friends. They work in solidarity with existing movements towards social justice, workers' rights, and economic inclusion for the tech sector specifically. This group isn't an actual union though, most tech workers are unionized (as I formerly was, though I no longer work in tech) under the Communication Workers of America (CWA) union.
 
 <br>
 

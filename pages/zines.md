@@ -16,7 +16,7 @@ send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail y
         <img src="{{ "/assets/images/zines/LoversHatersCover.png" | relative_url }}">
     </a>
     <a class="track zines" href="/assets/pdfs/zines/NycIceWatch.png">
-        <img src="{{ "/assets/images/zines/NycICeWatch.png" | relative_url }}">
+        <img src="{{ "/assets/images/zines/NycIceWatch.png" | relative_url }}">
     </a>
     <a class="track zines" href="/assets/pdfs/zines/KYR-English.pdf">
         <img src="{{ "/assets/images/zines/EnglishKYR.png" | relative_url }}">
