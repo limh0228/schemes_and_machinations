@@ -32,7 +32,3 @@ All remaining website source is the intellectual property of me, Hannah Lim.
 
 3. The open source typeface [Street Transvestite Action Revolutionaries](https://genderfailpress.info/PROTEST-FONTS) uses an OFL license which can be found [here](/assets/fonts/Street Transvestite Action Revolutionaries License.txt)
 
-4. The site's guest book is powered by [Cusdis](https://cusdis.com/doc#/), a free open source privacy-first comment system.
-
-5. The site's zine archive javascript function is powered by [Elfsight](https://elfsight.com/).
-

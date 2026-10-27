@@ -2,13 +2,9 @@
 layout: default_with_menu
 ---
 
-<h1 style = "font-family:'STAR';">Peruse my zines...</h1>
+<h1 style = "font-family:'STAR';">And if you would like a copy,</h1>
+send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail you whichever one is currently in print!...As of Tuesday October 27th, 2026, that is Issue 6: On Sedition.
 <br><br><br>
-
-<mark>And if you would like a copy, send me an email at Lim.Hannah0228[at]gmail.com to request a zine. </mark><br>
-<mark>I will mail you whichever one is currently in print!</mark><br>
-
-<br><br>
 
 <main class = "book-grid">
     <h1>2026</h1>

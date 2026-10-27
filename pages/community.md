@@ -8,7 +8,30 @@ title: Let's Make Stuff Together
 
 <h2 class = "section-header">Sign the guest book!</h2>
 
-{% include cusdis.html %}
+<iframe style="width:100%;height:700px;" src="https://hannahs.atabook.org/"></iframe>
+
+<br><br>
+
+<mark>This site's guest book used to be powered by the open source tool called <a href="https://github.com/djyde/cusdis">cusdis</a> which has since been deprecated. Below are the comments exported from my cusdis database, or guestbook signatures made on this blog before July 2026. My best guess is that they ran out of money to host our data for free? </mark>
+
+<br>
+
+<table>
+  {% for row in site.data.cusdis-comments %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
 
 <br> 
 
