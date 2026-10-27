@@ -7,7 +7,7 @@ published: true
 ---
 
 <figure>
-  <img alt="Gratutudes on the wall" src="{{ "/assets/images/gratitudes.jpg" | relative_url }}" />
+  <img alt="Gratitudes on the wall" src="{{ "/assets/images/gratitudes.jpg" | relative_url }}" />
   <figcaption>
    Our dining room wall grid, filling with gratitude. T'was formerly posted with love poems. They have since been bound into a book and gifted to Ishita for her 27th birthday.
   </figcaption>
