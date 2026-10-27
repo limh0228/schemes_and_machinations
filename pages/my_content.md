@@ -217,6 +217,14 @@ All archived radio shows were originally broadcasted live at [8ballradio.nyc](ht
         <img src="{{ "/assets/images/games/duchamp.jpg" | relative_url }}">
         <span class="title" style="font-size: 1.5em;"><mark>Minigame, After Duchamp</mark></span>
     </a>
+    <a class="track large" href="https://8ballmarket.com/collections/archive/products/cassette-class">
+        <img src="{{ "/assets/images/cassette-shop.jpeg" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>Cassette Mixtape Workshop w/ 8Ball Community</mark></span>
+    </a>
+    <a class="track large" href="">
+        <img src="{{ "/assets/images/Open Language Nov 2026 Reading.jpg" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>Open Language Manuscript Reading</mark></span>
+    </a>
 </div>
 
 
