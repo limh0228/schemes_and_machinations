@@ -155,7 +155,7 @@ title: Stuff I Make
 
 <h2 class = "section-header">⊹₊ Radio ₊⊹</h2>
 
-All archived radio shows were originally broadcasted live at [8ballradio.nyc](https://8ballradio.nyc/)
+All shows listed below were originally broadcasted live at <a href="https://8ballradio.nyc/" style="background:#04AA6D; padding:10px; font-family:'STAR'" onMouseOver="this.style.color='#ff00e1'; this.style.background='#5a0d51'" onMouseOut="this.style.color='#b7f754'; this.style.background='#9b68af'"> ⓼ 8 BALL RADIO NYC ⓼</a>
 
 <br>
 
