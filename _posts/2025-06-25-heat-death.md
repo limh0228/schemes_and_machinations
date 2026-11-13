@@ -40,12 +40,3 @@ infernal
 bodies.
 
 <br>
-
-<figure>
-  <video alt="Man playing guitar, lying in bed" controls>
-    <source src="{{ "/assets/video/dead-wife-in-the-beginning-of-the-movie.mp4" | relative_url }}" type="video/mp4">
-  </video> 
-  <figcaption>
-    Air-conditioned antics in a record-breaking heatwave in NYC, June 2025
-  </figcaption>
-</figure>
