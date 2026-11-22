@@ -217,13 +217,13 @@ All shows listed below were originally broadcasted live at <a href="https://8bal
         <img src="{{ "/assets/images/games/duchamp.jpg" | relative_url }}">
         <span class="title" style="font-size: 1.5em;"><mark>Minigame, After Duchamp</mark></span>
     </a>
-    <a class="track large" href="https://8ballmarket.com/collections/archive/products/cassette-class">
+    <a class="track large" href="https://8ballcommunity.club/EVENTS">
         <img src="{{ "/assets/images/cassette-shop.jpeg" | relative_url }}">
-        <span class="title" style="font-size: 1.5em;"><mark>Cassette Mixtape Workshop w/ 8Ball Community</mark></span>
+        <span class="title" style="font-size: 1.5em;"><mark>Cassette Mixtape Workshop w/ 8 Ball Community</mark></span>
     </a>
-    <a class="track large" href="">
-        <img src="{{ "/assets/images/Open Language Nov 2026 Reading.jpg" | relative_url }}">
-        <span class="title" style="font-size: 1.5em;"><mark>Open Language Manuscript Reading</mark></span>
+    <a class="track large" href="https://northbrooklynmutualaid.org/Merch">
+        <img src="{{ "/assets/images/nbkma-merch.jpg" | relative_url }}">
+        <span class="title" style="font-size: 1.5em;"><mark>NBKMA Fall/Winter 2026 Screen Printed Merch</mark></span>
     </a>
 </div>
 
