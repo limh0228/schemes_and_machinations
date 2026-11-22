@@ -65,6 +65,10 @@ layout: default_with_menu
         <img src="{{ "/assets/images/zines/BillionairesCover.png" | relative_url }}">
         <span class= "zine-title" >Billionaires Hate NY: An 8 Ball Community Zine</span>
     </a>
+    <a class="track zines" href="/assets/pdfs/zines/Bread-and-Circuses.pdf">
+        <img src="{{ "/assets/images/zines/Bread and Circuses Cover.png" | relative_url }}">
+        <span class= "zine-title" >Plenty of Circuses but No More Bread: an NYC Food Security Zine</span>
+    </a>
     
     <h1>⋆ 2024 ⋆</h1>
 
@@ -88,6 +92,7 @@ send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail y
 - [JUN 2025] <a href="{{ "/assets/pdfs/zines/Issue 3.pdf" | relative_url }}">Issue 3: Good, Simple and Honest</a> 
 - [AUG 2025] <a href="{{ "/assets/pdfs/zines/Issue 4.pdf" | relative_url }}">Issue 4: Threat of Desire</a> 
 - [NOV 2025] <a href="{{ "/assets/pdfs/zines/Billionaires zine.pdf" | relative_url }}">Billionaires Hate NY: An 8 Ball Community Zine</a> 
+- [DEC 2025] <a href="{{ "/assets/pdfs/zines/Bread-and-Circuses.pdf" | relative_url }}">Plenty of Circuses but No More Bread: An NYC Food Security Zine</a> 
 - [FEB 2026] <a href="{{ "/assets/pdfs/zines/Issue 5.pdf" | relative_url }}">Issue 5: Love Poems in the Age of ICE</a>
 - [FEB 2026] <a href="{{ "/assets/pdfs/zines/Lovers-haters-zine.pdf" | relative_url }}">Lovers/Haters: An 8 Ball Community Zine</a>
 - [FEB 2026] <a href="{{ "/assets/pdfs/zines/NycIceWatch.png" | relative_url }}">NYC ICE Watch Guide</a>
