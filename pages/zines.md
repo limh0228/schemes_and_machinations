@@ -2,67 +2,87 @@
 layout: default_with_menu
 ---
 
-<h1 style = "font-family:'STAR';">And if you would like a copy,</h1>
-send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail you whichever one is currently in print!...As of Tuesday October 27th, 2026, that is Issue 6: On Sedition.
-<br><br><br>
-
 <main class = "book-grid">
-    <h1>2026</h1>
+    <h1>⋆ 2026 ⋆</h1>
 
     <a class="track zines" href="/assets/pdfs/zines/Issue 5.pdf">
         <img src="{{ "/assets/images/zines/Issue5Cover.png" | relative_url }}">
+        <span class= "zine-title" > Issue 5: Love Poems in the Age of ICE</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/Lovers-haters-zine.pdf">
         <img src="{{ "/assets/images/zines/LoversHatersCover.png" | relative_url }}">
+        <span class= "zine-title" >Lovers/Haters: An 8 Ball Community Zine</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/NycIceWatch.png">
         <img src="{{ "/assets/images/zines/NycIceWatch.png" | relative_url }}">
+        <span class= "zine-title" >NYC ICE Watch Guide</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/KYR-English.pdf">
         <img src="{{ "/assets/images/zines/EnglishKYR.png" | relative_url }}">
+        <span class= "zine-title" >(ENGLISH) Know Your Rights with ICE: NYC Mayor's Office of Immigrant's Rights</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/KYR-Spanish.pdf">
         <img src="{{ "/assets/images/zines/SpanishKYR.png" | relative_url }}">
+        <span class= "zine-title" >(ESPAÑOL) Conozca sus derechos ante ICE: NYC Oficina de la Alcaldía para Asuntos del Inmigrante</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/KYR-Chinese.pdf">
         <img src="{{ "/assets/images/zines/ChineseKYR.png" | relative_url }}">
+        <span class= "zine-title" >(中文) 了解当您⾯对 ICE 时的权利: NYC 市⻓移⺠事务办公室</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/KYR-French.pdf">
         <img src="{{ "/assets/images/zines/FrenchKYR.png" | relative_url }}">
+        <span class= "zine-title" >(FRANÇAIS) Connaissez vos droits avec ICE: NYC Bureau de la mairie pour les affaires de l’immigrant</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/AntififaZine.pdf">
         <img src="{{ "/assets/images/zines/AntififaCover.png" | relative_url }}">
+        <span class= "zine-title" >8 Ball Community is: ANTIFIFA</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/Issue 6.pdf">
         <img src="{{ "/assets/images/zines/Issue6Cover.png" | relative_url }}">
+        <span class= "zine-title" >Issue 6: On Sedition</span>
+    </a>
+    <a class="track zines" href="/assets/pdfs/zines/why-havent-you.pdf">
+        <img src="{{ "/assets/images/zines/why-haven't-you.png" | relative_url }}">
+        <span class= "zine-title" >Why Haven't You Killed Yourself?</span>
     </a>
 
 
-    <h1>2025</h1>
+    <h1>⋆ 2025 ⋆</h1>
 
     <a class="track zines" href="/assets/pdfs/zines/Issue 2.pdf">
         <img src="{{ "/assets/images/zines/Issue2Cover.png" | relative_url }}">
+        <span class= "zine-title" >Issue 2: To Be a Hatchling Again</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/Issue 3.pdf">
         <img src="{{ "/assets/images/zines/Issue3Cover.png" | relative_url }}">
+        <span class= "zine-title" >Issue 3: Good, Simple and Honest</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/Issue 4.pdf">
         <img src="{{ "/assets/images/zines/Issue4Cover.png" | relative_url }}">
+        <span class= "zine-title" >Issue 4: Threat of Desire</span>
     </a>
     <a class="track zines" href="/assets/pdfs/zines/Billionaires zine.pdf">
         <img src="{{ "/assets/images/zines/BillionairesCover.png" | relative_url }}">
+        <span class= "zine-title" >Billionaires Hate NY: An 8 Ball Community Zine</span>
     </a>
     
-    <h1>2024</h1>
+    <h1>⋆ 2024 ⋆</h1>
 
     <a class="track zines" href="/assets/pdfs/zines/Issue 1.pdf">
         <img src="{{ "/assets/images/zines/Issue1Cover.png" | relative_url }}">
+        <span class= "zine-title" >Issue 1: Goodbye Seattle</span>
     </a>
 </main>
 
 <br><br>
 
-<h1 style = "font-family:'STAR';">Plain Text Index</h1>
+<h2 class = "section-header">And if you would like a copy,</h2>
+send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail you whichever one is currently in print!
+
+
+<br><br>
+
+<h2 class = "section-header">Plain Text Index</h2>
 - [OCT 2024] <a href="{{ "/assets/pdfs/zines/Issue 1.pdf" | relative_url }}">Issue 1: Goodbye Seattle</a>
 - [FEB 2025] <a href="{{ "/assets/pdfs/zines/Issue 2.pdf" | relative_url }}">Issue 2: To Be a Hatchling Again</a>
 - [JUN 2025] <a href="{{ "/assets/pdfs/zines/Issue 3.pdf" | relative_url }}">Issue 3: Good, Simple and Honest</a> 
@@ -77,6 +97,7 @@ send me an email at Lim.Hannah0228[at]gmail.com to request a zine. I will mail y
 - [FEB 2026] <a href="{{ "/assets/pdfs/zines/KYR-Chinese.pdf" | relative_url }}">(中文) 了解当您⾯对 ICE 时的权利 - NYC 市⻓移⺠事务办公室</a>
 - [JUL 2026] <a href="{{ "/assets/pdfs/zines/AntififaZine.pdf" | relative_url }}">8 Ball Community is: ANTIFIFA</a>
 - [SEP 2026] <a href="{{ "/assets/pdfs/zines/Issue 6.pdf" | relative_url }}">Issue 6: On Sedition</a>
+- [NOV 2026] <a href="{{ "/assets/pdfs/zines/why-havent-you.pdf" | relative_url }}">Why Haven't You Killed Yourself</a>
 
 
 
